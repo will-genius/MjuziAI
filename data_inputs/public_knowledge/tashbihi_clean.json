@@ -1,0 +1,2291 @@
+[
+  {
+    "number": 1,
+    "phrase": "Achana kama ardhi na mbingu",
+    "m.s.": "",
+    "m.y.": "Adhibu vikali au sana. Adhabu itakayowapata watenda dhambi kwenye moto wa Jehanamu itakuwa kubwa mno.",
+    "mf.": "Raia waliokosa wakati wa utawala wa Milosovic waliadhibiwa ki motoni na serikali yake."
+  },
+  {
+    "number": 4,
+    "phrase": "Adimika kama almasi",
+    "m.s.": "",
+    "m.y.": "Kutopatikana kwa urahisi (hasa kwa kitu muhimu).",
+    "mf.": "Nimekitafuta kitabu kiitwacho Pedro Paramo kwa miaka kadha lakini kimeadimika kama almasi."
+  },
+  {
+    "number": 5,
+    "phrase": "Adimika kama barafu ya kukaanga",
+    "m.s.": "Adimika ni kukosekana; kuwa nadra kupatikana. Barafu ni maji yaliyoganda na kuwa kama jiwe na huwa baridi sana.",
+    "m.y.": "Kutoweza kupatikana. Barafu ikiwekwa karibu na joto huyeyuka; huwa sio barafu tena. Matumizi yake yanakaribiana na ya tashbihi zifuatazo.",
+    "mf.": ""
+  },
+  {
+    "number": 6,
+    "phrase": "Adimika kama dhahabu Maana na matumizi yake ni sawa na ya adimika kama almasi.",
+    "m.s.": "",
+    "m.y.": "",
+    "mf.": ""
+  },
+  {
+    "number": 7,
+    "phrase": "Adimika kama kaburi la baniani",
+    "m.s.": "",
+    "m.y.": "Kuwa adimu sana. Aghalabu mabaniani huwa hawaziki wafu bali huwachoma.",
+    "mf.": "Watu waaminifu katika ulimwengu wa leo wameadimika kama kaburi la baniani."
+  },
+  {
+    "number": 8,
+    "phrase": "Adimika kama machozi ya bundi",
+    "m.s.": "Bundi ni ndege anayeogopwa sana na ambaye huwa haonekani vivi hivi sembuse machozi yake.",
+    "m.y.": "Kuwa nadra kupatikana; kosekana sana; kitu kisichopatikana kabisa.",
+    "mf.": "Nimezunguka mjini kutafuta nakala ya kitabu kiitwacho Molloy cha Samuel Beckett lakini hakipatikani,himeadimika kama machozi ya bundi."
+  },
+  {
+    "number": 9,
+    "phrase": "Adimika kama maziwa ya kuku",
+    "m.s.": "",
+    "m.y.": "Kukosekana kabisa. Kuku hana maziwa.",
+    "mf.": "Biashara ya utumwa imeadimika kama maziwa ya kuku."
+  },
+  {
+    "number": 10,
+    "phrase": "Adimika kama mizizi ya mawe",
+    "m.s.": "",
+    "m.y.": "Kuwa adimu sana. Mawe hayana mizizi.",
+    "mf.": "Maandishi yanayozungumzia maisha ya Fumo Liyongo kwa ukamilifu yameadimika kama mizizi ya mawe."
+  },
+  {
+    "number": 11,
+    "phrase": "Adimika kama mwezi wa Ramadhani",
+    "m.s.": "Ramadhani ni mwezi ambapo Waislamu huwa na saumu au mfungo. Hutokea mara moja kwa mwaka.",
+    "m.y.": "Kutokea mara chache.",
+    "mf.": "Tulitarajia kuwa ami yake angefika lakini ameadimika huko kama mwezi wa Ramadhani haji mara kadha kwa mwaka kama alivyofanya hapo kabla."
+  },
+  {
+    "number": 12,
+    "phrase": "Adimika kama pembe za punda",
+    "m.s.": "",
+    "m.y.": "Kutopatikana kabisa; kuwa nadra. Punda hana pembe.",
+    "mf.": "Wazee wanasema kuwa kijijini kwetu kulikuwa na kanisa la kwanza wilayani lakini ishara zake zimeadimika kama pembe za punda."
+  },
+  {
+    "number": 13,
+    "phrase": "Adimika kama shilingi ya siku za mwambo",
+    "m.s.": "Koa ni konokono.",
+    "m.y.": "Tupa macho kila sehemu kwa nia ya kuchunguza kama afanyavyo askari kanzu.",
+    "mf.": "Jemero alikuwa akiangaza macho kama kachero hadi akamntia hofu mwenyeji wake aliycamua kuwajulisha polisi."
+  },
+  {
+    "number": 20,
+    "phrase": "Angushia mtu makonde kama mvua",
+    "m.s.": "",
+    "m.y.": "Piga mtu ngumi mfululizo.",
+    "mf.": "Ali alimwangushia yule mwizi aliyemwibia mkoba wake makonde kama mvua."
+  },
+  {
+    "number": 21,
+    "phrase": "Angua kicheko kama mjinga",
+    "m.s.": "Angua kicheko ni cheka kwa sauti kubwa.",
+    "m.y.": "Tabia ya kucheka kwa sauti kubwa hudharauliwa sana na achekaye hivyo huonekana kama baradhuli.",
+    "mf.": "Nimemchukia mke wa jirani yangu kwa sababu ya tabia yake ya kuangua kicheko kama mjinga."
+  },
+  {
+    "number": 22,
+    "phrase": "Asi kama mhalifu",
+    "m.s.": "Kinyonga au lumbwi ni mnyama wa jamii ya mjusi anayeibadili rangi ya ngozi yake.",
+    "m.y.": "Kuwa na sifa ya kugeukageuka au kuwa mgumu wa kutabirika.",
+    "mf.": "Ingawa ameniahidi kunisaidia, mimi simwaminiJoram kwa kuwa anabadilika kama kinyonga."
+  },
+  {
+    "number": 27,
+    "phrase": "Badilika kama ngisi",
+    "m.s.": "Ngisi ni aina ya samaki ambaye ana rangi nyeupe nahutoa kitu kama wino mweusi kuwahadaa adui zake wasiweze kumpata.Matumizi yake ni sawa na ya tashbihi iliyotangulia.",
+    "m.y.": "",
+    "mf.": ""
+  },
+  {
+    "number": 28,
+    "phrase": "Badilika kama sarafu",
+    "m.s.": "Baidika ni kuwa mbali mbali; kutengana.",
+    "m.y.": "Kuwa mbali na kutengana kama ardhi ilivyo mbali na mbingu.",
+    "mf.": "Bwana Maksuudi amebaidika na mkewe kama ardhi na mbingu hamna anayemwazia mwenzake:"
+  },
+  {
+    "number": 31,
+    "phrase": "Bana kama pingu",
+    "m.s.": "Bana ni weka katikati na kukaba pande zote; songa",
+    "m.y.": "Nasa au gandamiza sana kama pingu zimfanyavyo mfungwa.",
+    "mf.": "1.John hawezi kuamua lolote kwake mkewe,amembana kama pingu. 2. Yule mwizi aliposhikwa na wana kijiji walimbana kama pingu akashindwa kufurukuta hadi walipofika kituoni."
+  },
+  {
+    "number": 32,
+    "phrase": "Banana kama kuni uchagani",
+    "m.s.": "Uchaga au kichaga ni sehemu ya kuwekea vitu.",
+    "m.y.": "Songamana sana kama kuni zilizowekwa pamoja uchagani.",
+    "mf.": "Kile chumba kilikuwa kidogo kwa hiyo wanafunzi walibanana kama kuni uchagani mpaka wawili wakaishia kuzirai na kuanguka kwa kukosa hewa."
+  },
+  {
+    "number": 33,
+    "phrase": "Banana kama ndizi katika mkungu",
+    "m.s.": "Mkungu ni tawi la mgomba lenye ndizi.",
+    "m.y.": "Ndizi zilizoko mkunguni huwa karibu karibu sana.Matumizi yake ni sawa na ya banana kama huni uchagani.",
+    "mf.": ""
+  },
+  {
+    "number": 34,
+    "phrase": "Banana kama siafu",
+    "m.s.": "Kigaga ni uchafu hasa wa kamasi zilizokaukia puani au utandu wa kidonda kilicho karibu kupona.",
+    "m.y.": "Gandama mtu sana sawa na kupe katika mkia wa ng'ombe.",
+    "mf.": "Phoebe amembandika Maria kama hupe tangu alipopandishwa madaraka kazini."
+  },
+  {
+    "number": 37,
+    "phrase": "Baridi kama barafu",
+    "m.s.": "Bubujika ni kuropoka maneno; toka kwa nguvu kama maji.",
+    "m.y.": "Sema maneno mengi sawa na maji yatokayo kwa nguvu chini.",
+    "mf.": "Mke wake alibubujika kama chemchemi alipotambua kuwa Ali alidhamiria kumwoa mke wa pili."
+  },
+  {
+    "number": 42,
+    "phrase": "Bubujika machozi kama maji mlimani",
+    "m.s.": "",
+    "m.y.": "Tokwa na machozi bila ya kusita.",
+    "mf.": "Ali alibububujika machozi kama maji mlimani alipopokea habari ya kifo cha babake."
+  },
+  {
+    "number": 43,
+    "phrase": "Bubujika maneno kama bisi",
+    "m.s.": "Bisi ni punje za mahindi zinazokaangwa.",
+    "m.y.": "Tokwa na maneno mengi; sema maneno yasiyokuwa na maana.",
+    "mf.": "Alfred alibubujika maneno kama bisi alipokosa kushirikishwa katika safari ile."
+  },
+  {
+    "number": 44,
+    "phrase": "Bughudhi kama mwana wa kambo",
+    "m.s.": "Bughudhi ni sumbua au kasirisha; fanyia mtu matendo ya kuudhi na kukasirisha.",
+    "m.y.": "Tesa au onea kupita kiasi mfano wa mwana wa kambo anavyoteswa na mamake wa kambo.",
+    "mf.": "Bi Maahira amembughudhi mkaza mwana wake kama mwana wa kambo."
+  },
+  {
+    "number": 45,
+    "phrase": "Chafu kama fungo",
+    "m.s.": "Fungo ni mnyama anayefanana na paka lakini mdogo kuliko ngawa anayeaminiwa kuwa mchafu.",
+    "m.y.": "Kuwa chafu sana.",
+    "mf.": "Deogratias hakogi siku hizi za baridi, amekuwa mchafu kama fungo."
+  },
+  {
+    "number": 46,
+    "phrase": "Chafu kama jalala",
+    "m.s.": "Jalala ni mahali pa kutupwa taka.",
+    "m.y.": "Isiyo safi hasa kwa sura; isiyovutia macho kamanguruwe ambaye zaidi ya kuishi katika uchafu hula",
+    "mf.": "Mimi sipendi kuandamana kwenye sherehe na Omari ambaye ni mchafu kama nguruwe."
+  },
+  {
+    "number": 51,
+    "phrase": "Chanja kama kuni",
+    "m.s.": "Mche ni mmea unaoanza kutokeza juu ya ardhi. Chanua ni fumbuka kama ua; papatua.",
+    "m.y.": "Endelea vizuri au kua vizuri kama ufanyavyo mche wa mgomba. m.f: Biashara yake imechanua kama mche wa mgomba baada ya kupewa msaada na wakwe zake.",
+    "mf.": "Yule kijana aliyeiba mfuko wa mtalii alichanjwa na watu kama kuni aliposhikwa. Chanua kama mche wa mgomba"
+  },
+  {
+    "number": 53,
+    "phrase": "Chanua kama ua la asubuhi",
+    "m.s.": "",
+    "m.y.": "Onekana vizuri au vutia kama ua ambalo limepapatuka asubuhi.",
+    "mf.": "Baada ya kuanza kufanya kazi Rael amebadilika sana siku hizi amechanua kama ua la asubuhi."
+  },
+  {
+    "number": 54,
+    "phrase": "Chanua kama waridi",
+    "m.s.": "",
+    "m.y.": "Cheka kicheko kizuri au cha kutamanisha.Malaika wanaaminiwa kuwa wanavutia na lazima kicheko chao kina sifa hizo hizo.",
+    "mf.": "Yule msichana aliyeshinda tuzo ya urembo aliwavutia watazamaji wengi kwa kucheka kama malaika alipokuwa akiulizwa maswali."
+  },
+  {
+    "number": 56,
+    "phrase": "Cheka ovyo kama kichaa/mwendawazimu/kichaa kichanga",
+    "m.s.": "",
+    "m.y.": "Cheka pasi na sababu maalum kama vile mwenda wazimu.",
+    "mf.": "Simpendi Ejobi kwa sababu ya tabia yake ya hucheka ovyo kama kichaa."
+  },
+  {
+    "number": 57,
+    "phrase": "Chekesha kama kinyago",
+    "m.s.": "Mche (wingi miche) ni mmea unaoanza kuchipua au kutokeza ardhini.",
+    "m.y.": "Tokeza vizuri au inukia uzuri.",
+    "mf.": "Watu wamekubali kuwa Jayton ni mwalimu mzuri baada ya wanafunzi wake kuchipua kama miche."
+  },
+  {
+    "number": 62,
+    "phrase": "Chipua kama uyoga m.s. Uyoga ni mmea wa jamii ya kuvu wenye umbo lamwamvuli.",
+    "m.s.": "",
+    "m.y.": "Enda kwa mwendo wa polepole kama nyoka anayetambaa.",
+    "mf.": "Yule jamaa aliyelemaa miguu yote miwilialichirizik kama nyoka kuelekea nyumbani."
+  },
+  {
+    "number": 65,
+    "phrase": "Choka kama fahali",
+    "m.s.": "",
+    "m.y.": "Pungukiwa na nguvu mwilini baada ya kushughulik mfano wa fahali aliyekokota plau; choka sana.",
+    "mf.": "Baada ya kuifanya kazi niliyopewa na baba, nilichok kama fahali nikashindwa hata kwenda kwenye mazoe ya mpira."
+  },
+  {
+    "number": 66,
+    "phrase": "Choma kama karatasi",
+    "m.s.": "",
+    "m.y.": "Teketeza kabisa kama karatasi zilizochomwa moto.",
+    "mf.": "Baada ya Jane kukosana na mumewe, aliichoma nyumba yao kama karatasi."
+  },
+  {
+    "number": 67,
+    "phrase": "Choma kama mkuki",
+    "m.s.": "",
+    "m.y.": "Chunga sana kama mfungwa aliye kifungoni aangaliwavyo kwa makini.",
+    "mf.": "Mzee Maksuudi anawachunga watoto wake wa kikekama wafungwa, hawana idhini ya kutoka nyumbani kabisa."
+  },
+  {
+    "number": 69,
+    "phrase": "Chungu kama mbukwini/kwinini",
+    "m.s.": "Mbukwini au kwinini ni dawa ya kutibia homa ya mbu na huwa chungu sana.",
+    "m.y.": "Chungu sana.",
+    "mf.": "Nilishindwa kuinywa dawa niliyopewa iliyokuwa chungu kama mbukwini."
+  },
+  {
+    "number": 70,
+    "phrase": "Chungu kama mwarubaini",
+    "m.s.": "Mwarubaini ni aina ya mti ambao majani yake huchemshwa na hutumika kutibia maradhi mbalimbali.",
+    "m.y.": "Chungu sana na hasa kitu kiowevu au majimaji.Matumizi yake ni sawa na chungu kama mbuhwini.",
+    "mf.": ""
+  },
+  {
+    "number": 71,
+    "phrase": "Chungu kama shubiri mani",
+    "m.s.": "Subili ni sawa na shubiri. Msubili ni mmea unaofanana na mkonge ambao una majani mapana yenye utomvu unaonata na ulio chungu.",
+    "m.y.": "Maana na matumizi ya tashbihi hii ni sawa na ya chungu kama shubiri mani.",
+    "mf.": "Mtoto alikataa dawa aliyopewa kwa madai kuwa ilikuwa chungu kama shubirimani. Chungu kama subili"
+  },
+  {
+    "number": 73,
+    "phrase": "Chungu kama uchachu",
+    "m.s.": "Dahadari ni kujitupa huku na huku kwa maumivu.",
+    "m.y.": "Taabika na tapatapa sana mfano wa mtu aliye karibu kufariki.",
+    "mf.": "Alipokula chakula kibaya alidahadari kama mtu anayekata roho hadi alipopelekwa hospitali."
+  },
+  {
+    "number": 79,
+    "phrase": "Dekeza (endekeza) kama mtoto mdogo",
+    "m.s.": "Dekeza ni bembeleza; tendekeza.",
+    "m.y.": "Bembeleza sana.",
+    "mf.": "Ali amemdekeza ndugu yake mdogo kama mtoto mdogo mpaka akawa mvivu kupindukia."
+  },
+  {
+    "number": 80,
+    "phrase": "Dhaifu kama mgonjwa wa safura",
+    "m.s.": "",
+    "m.y.": "Kuwa mnyonge sana mfano wa mgonjwa wa ugonjwa wa upungufu wa damu uletwao na vijidudu fulani.",
+    "mf.": "Baada ya Amina kuachishwa kazi aliyoitegemea kuitunza jamaa yake kubwa, amekuwa dhaifu kama mgonjwa wa safura kutokana na mawazo."
+  },
+  {
+    "number": 81,
+    "phrase": "Dhaifu kama mkufu",
+    "m.s.": "",
+    "m.y.": "Kutokuwa imara kama mkufu ambao daima huwa regerege.",
+    "mf.": "Usiione redio yake ina sura nzuri ikakuvutia; ile ni dhaifu kama mkufu; ikianguka kidogo inavunjika kenye kenye."
+  },
+  {
+    "number": 82,
+    "phrase": "Dondoka kama mvua",
+    "m.s.": "",
+    "m.y.": "Toka tone baada ya tone kama maji ya mvua.",
+    "mf.": "Baada ya kusikia kuwa mkewe ameaga dunia, Hamisi alidondokwa na machozi kama mvua."
+  },
+  {
+    "number": 83,
+    "phrase": "Dunda kama mpira",
+    "m.s.": "",
+    "m.y.": "Piga chini na kurudi juu kama mpira.",
+    "mf.": "Aliposikia habari hizo za kusikitisha, alikitupa chombo alichokuwa nacho chini kikadunda kama mpira."
+  },
+  {
+    "number": 84,
+    "phrase": "Dunda kama ngoma",
+    "m.s.": "Dusa ni doea au pata chakula kwa kuwategemea watu wengine.",
+    "m.y.": "Pata chakula kwa kuwategemea wengine kama afanyavyo mbwa.",
+    "mf.": "Paul alifutwa kazi baada ya kuiba fedha za mwajiri wake; siku hizi amekuwa mtu wa kudusadusa chahula kama mbwa."
+  },
+  {
+    "number": 89,
+    "phrase": "Duwaa kama aliyedungwa sindano (ya ganzi)",
+    "m.s.": "",
+    "m.y.": "Pigwa na bumbuwazi sana mfano wa mtu aliyepigwa sindano ya kupooza sehemu ya mwili.",
+    "mf.": "Herman ametorokwa na mkewe akabakia kuduwaa kama aliyedungwa sindano ya ganzi."
+  },
+  {
+    "number": 90,
+    "phrase": "Ekundu kama damu/ngeu",
+    "m.s.": "Neno ngeut lina maana ya damu au rangi nyekundu.",
+    "m.y.": "Enye rangi nyekundu kama ilivyo damu.",
+    "mf.": "Jirani yangu hupenda kutumia mavazi mekundu kama damu."
+  },
+  {
+    "number": 91,
+    "phrase": "Ekundu kama jua lichomozalo",
+    "m.s.": "",
+    "m.y.": "Enye rangi nyekundu inayovutia.",
+    "mf.": "Rinda alilovalia lilikuwa jekundu kama jua lichomozalo na lilimfanya apendeze."
+  },
+  {
+    "number": 92,
+    "phrase": "Ekundu kama kaa la moto",
+    "m.s.": "",
+    "m.y.": "Enye wekundu utishao.",
+    "mf.": "Mjomba wake alimwangalia kwa macho mekundu kama kaa la moto alipomwona akimsemesha yule msichana wa kazi."
+  },
+  {
+    "number": 93,
+    "phrase": "Ekundu kama papai bivu",
+    "m.s.": "",
+    "m.y.": "Enye wekundu usiokolea kama wa tunda.",
+    "mf.": "Nilidhani kuwa lile embe halikuwa limeiva lakini ndani lilikuwa jekundu kama papai bivu."
+  },
+  {
+    "number": 94,
+    "phrase": "Ema kama nyota ya jaha",
+    "m.s.": "Nyota ya jaha ni nyota ya bahati.",
+    "m.y.": "Zuri sana.",
+    "mf.": "Baada ya kufuzu mtihani vizuri, Omari alitunukiwa zawadi njema kama nyota ya jaha."
+  },
+  {
+    "number": 95,
+    "phrase": "Embamba kama fimbo",
+    "m.s.": "",
+    "m.y.": "Kuwa mwembamba kiasi cha kukonda.",
+    "mf.": "Baada ya ugonjwa uliomshika kwa miezi mingi Amina amekonda na kuwa mwembamba hama fimbo."
+  },
+  {
+    "number": 96,
+    "phrase": "Embamba kama miguu ya mbu",
+    "m.s.": "Ufito ni kipande cha mti au chuma ambacho huwa kirefu na chembamba na hutumiwa kujengea nyumba.Matumizi yake ni sawa na embamba kama fimbo.",
+    "m.y.": "Kuwa embamba sana.",
+    "mf.": "Yule mwanamke anamsumbua mumewe sana;amekonda na kuwa mwembamba kama ng'onda. Embamba kama sindano Maana na matumizi ni sawa na embamba kama fimbo. Embamba kama ufito"
+  },
+  {
+    "number": 100,
+    "phrase": "Embamba kama unywele Maana na matumizi ya tashbihi hii ni sawa na ya embamba kama miguu ya mbu. Embamba kama uzi",
+    "m.s.": "",
+    "m.y.": "Uzi kama ulivyo unywele huwa mwembamba mno.Matumizi ya tashbihi hii ni kama na iliyotangulia.",
+    "mf.": ""
+  },
+  {
+    "number": 102,
+    "phrase": "Enda huku na huku kama kaa",
+    "m.s.": "Kaa ni mnyama wa majini mwenye miguu zaidi ya sita na mwenye gamba mwilini na mwenye sifa ya kwenda mbele, nyuma au upande.",
+    "m.y.": "Jipindapinda kama afanyavyo nyoka.",
+    "mf.": "Jongoo aliyechokozwa na watoto alijigeuza na kuanza kwenda kama nyoka."
+  },
+  {
+    "number": 104,
+    "phrase": "Enda mbio kama duma",
+    "m.s.": "Duma ni mnyama anayesemekana kuwa na mbio kuliko wanyama wote duniani.",
+    "m.y.": "Enda mbio sana kiasi cha kuajabiwa.",
+    "mf.": "Wale majambazi walienda mbio kama duma baada ya watu kupiga kelele za kamsa."
+  },
+  {
+    "number": 105,
+    "phrase": "Enda mbio kama mbuni",
+    "m.s.": "Mbuni ni ndege mkubwa asiyeruka lakini mwenye mbio sana.",
+    "m.y.": "Enea haraka sana.",
+    "mf.": "Habari za kifo cha waziri mkuu zilienda mbio kama moto katika nyasi kavu."
+  },
+  {
+    "number": 107,
+    "phrase": "Enda mbio kama mshale",
+    "m.s.": "Paa na swala ni wanyama mwituwanaofanana na mbuzi. Maana ya matumizi ya tashbihi hii nisawa na enda mbio kama mbuni.",
+    "m.y.": "Enda kasi au haraka sana.",
+    "mf.": "Watu walimdharau yule mwanariadha kwa sababu ya ufupi wake lakini alipoanza kukimbia alikwenda mbio kama mshale na kumshangaza kila mtu. 108 . Enda mbio kama paa/swala"
+  },
+  {
+    "number": 109,
+    "phrase": "Enda mbio kama risasi",
+    "m.s.": "",
+    "m.y.": "Enda kasi ajabu.",
+    "mf.": "Baada ya ile ktelele kubwa kupigwa watu waliokuwako walienda mbio kama risasi."
+  },
+  {
+    "number": 110,
+    "phrase": "Enda mbio kama umeme",
+    "m.s.": "",
+    "m.y.": "Enda haraka kupindukia; enea haraka.",
+    "mf.": "Yule dereva aliyemgonga jirani yangu aliliendesha gari lake mbio kama umeme."
+  },
+  {
+    "number": 111,
+    "phrase": "Enda taratibu kama kinyonga",
+    "m.s.": "",
+    "m.y.": "Enda au tembea polepole kama lumbwi.",
+    "mf.": "Ikiwa umemtuma William sokoni utalazimika kusubiri sana kwa kuwa anaenda taratibu kama kinyonga."
+  },
+  {
+    "number": 112,
+    "phrase": "Enea kama moto Maana na matumizi ya tashbihi hii ni sawa na ya enda mbio kama moto katika nyasi kavu. Enea kama tauni",
+    "m.s.": "Tauni ni ugonjwa unaoambukizwa na viroboto vya panya na ambao huenea kwa haraka sana.",
+    "m.y.": "Enye simanzi au masikitiko mengi kama mtu aliyefiwa. Mtu aliyefikwa na msiba huwa na huzuni sana.",
+    "mf.": "Tangu Ali atorokwe na mkewe amekuwa na huzuni kama mfiwa."
+  },
+  {
+    "number": 118,
+    "phrase": "Enye imani ya mama kwa mwana",
+    "m.s.": "Neno matlai lina maana ya mashariki au uchejua nashamsi ni neno la kishairi lenye maana ya jua. Matlai Shamsi alikuwa binti wa kifalme aliyekuwa na sura nzuri na aliyewatia wanaume wengi mbioni.",
+    "m.y.": "Anayevutia mno.",
+    "mf.": "Yule msichana aliyegombaniwa na wanaume wakati wa sherehe alikuwa mwenye jamala kama Matlai Shamsi."
+  },
+  {
+    "number": 121,
+    "phrase": "Enye kuchosha kama maisha mabovu",
+    "m.s.": "",
+    "m.y.": "Enye kutatiza au kusumbua kama maisha yaliyojaa taabu.",
+    "mf.": "Sishangai kusikia kuwa John amemtaliki mkewe kwa vile alikuwa na tabia yenye kuchosha kama maisha mabovu."
+  },
+  {
+    "number": 122,
+    "phrase": "Enye kufahamika kama mchana usio mawingu",
+    "m.s.": "",
+    "m.y.": "Iliyo wazi kabisa au inayofahamika sana.",
+    "mf.": "Habari za safari yake zimefahamika kama mchana usio mawingu licha ya kwamba amejitahidi kuzificha."
+  },
+  {
+    "number": 123,
+    "phrase": "Enye kutisha kama Izraili/nduli /mauti",
+    "m.s.": "Izraili ni malaika anayechukua roho za watu. Nduli ni mtoa roho; mtu asiyekuwa na huruma.",
+    "m.y.": "Enye kutisha sana.",
+    "mf.": "Habari nilizozisikia kuhusu matatizo yaliyomkumba mjomba alipokwenda Ujerumani zinatisha kama mauti."
+  },
+  {
+    "number": 124,
+    "phrase": "Enye kutisha kama shetani",
+    "m.s.": "Chakari ni mtu anayeajiriwa katika magereza kuua waliohukumiwa kifo.",
+    "m.y.": "Mwenye macho mekundu sana na aghalabu ya kutisha.",
+    "mf.": "Nilishindwa kuyahimili macho ya Nunda ambayo ni mekundu kama ya chakari."
+  },
+  {
+    "number": 127,
+    "phrase": "Enye macho mekundu kama ya mvuta bangi Maana na matumizi ya tashbihi hii ni sawa na ya enye macho mekundu kama ya chakari.",
+    "m.s.": "",
+    "m.y.": "",
+    "mf.": ""
+  },
+  {
+    "number": 128,
+    "phrase": "Enye miguu mirefu kama korongo",
+    "m.s.": "Korongo ni aina ya ndege ambaye ana miguu mirefu m.y. Enye miguu mirefu na myembamba.",
+    "m.y.": "",
+    "mf.": "Alfred alimsifia mchumba wake sana kumbe mwenyewe ana miguu mirefu kama korongo!"
+  },
+  {
+    "number": 129,
+    "phrase": "Enye miguu mirefu kama ya twiga",
+    "m.s.": "",
+    "m.y.": "Enye miguu mirefu sana.",
+    "mf.": "Yule mwanafunzi aliyeshinda mashindano ya mbioano miguu mirefu kama ya twiga."
+  },
+  {
+    "number": 130,
+    "phrase": "Enye nguvu kama ndovu",
+    "m.s.": "Mbuni ni ndege mkubwa sana wa nyikani asiyeruka anayekwenda mbio sana.",
+    "m.y.": "Enye shingo ndefu sana na labda hata nyembamba.",
+    "mf.": "Shida zilizompata zimemfanya abadilike na kuonekana na shingo ndefu kama ya mbuni."
+  },
+  {
+    "number": 135,
+    "phrase": "Enye shingo ndefu kama ya twiga",
+    "m.s.": "Yatima ni mtoto aliyefiwa na wazazi wake wawili; pia huitwa mwanamkiwa.",
+    "m.y.": "Tunza kwa makini na kwa thamani kubwa; hifadhi vizuri.",
+    "mf.": "Aliniomba kitabu changu cha Hesabu lakini nikamnyima kwa sababu nakienzi hama roho."
+  },
+  {
+    "number": 141,
+    "phrase": "Epesi kama bua",
+    "m.s.": "Bua ni kikonyo au kipande cha mtama au mhindi kilicho chepesi.",
+    "m.y.": "Isiyo nzito kubebeka au kuinuliwa.",
+    "mf.": "Maria amelalamika kuwa ule mzigo alioubeba ni mzito kumbe wenyewe ni mwepesi kama bua."
+  },
+  {
+    "number": 142,
+    "phrase": "Epesi kama joya",
+    "m.s.": "Joya ni nyama nyororo nyeupe inayoota ndani ya nazi ambayo imeanza kukua.",
+    "m.y.": "Isiyokuwa na uzito.",
+    "mf.": "Mtoto aliweza kuyabeba yale mabaki ya chakula kwa sababu yalikuwa mepesi kama joya."
+  },
+  {
+    "number": 143,
+    "phrase": "Epesi kama paa",
+    "m.s.": "Paa ni mnyama wa porini anayefanana na mbuzi mdogo.",
+    "m.y.": "Enye mbio sana. Matumizi ya tashbihi hii ni sawa na ya enye mbio kama paa.",
+    "mf.": ""
+  },
+  {
+    "number": 144,
+    "phrase": "Epesi kama unyoya",
+    "m.s.": "",
+    "m.y.": "Isiyokuwa na uzito; rahisi kubebeka.",
+    "mf.": "Usikione kile kitabu ni kikubwa ukadhani ni kizito, ni chepesi kama unyoya hata mtoto mdogo anaweza kukibeba."
+  },
+  {
+    "number": 145,
+    "phrase": "Epesi kama usufi",
+    "m.s.": "Usufi ni kitu kama pamba kinachotiwa katika magodoro na mito na huwa chepesi sana. Pia epesi kama pamba.",
+    "m.y.": "Yenye uzani mwepesi; rahisi kubebeka.",
+    "mf.": "Mbona unashindwa kuubeba mzigo huu ambao ni mwepesi kama usufi?"
+  },
+  {
+    "number": 146,
+    "phrase": "Eupe kama bafta",
+    "m.s.": "Bafta ni aina ya kitammbaa cha pamba ambacho huwa cheupe na chororo.",
+    "m.y.": "Eupe sana.",
+    "mf.": "Bwana arusi alishangaza watu kwa kuvalia suti nyeupe kama bafta."
+  },
+  {
+    "number": 147,
+    "phrase": "Eupe kama joya",
+    "m.s.": "",
+    "m.y.": "Eupe sana; enye weupe usiokuwa na doa.",
+    "mf.": "Licha ya mazingira anayoishi, yule mwana dini ameweza kuyabakiza mavazi yake yakiwa meupehama joya."
+  },
+  {
+    "number": 148,
+    "phrase": "Eupe kama maziwa",
+    "m.s.": "",
+    "m.y.": "Enye weupe usiokuwa na doa.Maana na matumizi yake ni sawa na ya eupe kama joya.",
+    "mf.": "Shela alilovalia bi arusi lilikuwa jeupe hama maziwa. Eupe kama mbalamwezi"
+  },
+  {
+    "number": 151,
+    "phrase": "Eupe kama theluji",
+    "m.s.": "Chungu ni chombo cha udongo kinachotumiwa kupikia . m.y. Eusi sana.",
+    "m.y.": "Eusi sana.",
+    "mf.": "Wenyeji wengi wa Sudan ya Kusini ni weusi kama chungu."
+  },
+  {
+    "number": 156,
+    "phrase": "Eusi kama kaniki",
+    "m.s.": "Kaniki ni aina ya kitambaa cheusi cha nguo na huvaliwa na wanawake wakati wa kazi badala ya kanga.",
+    "m.y.": "Eusi sana.",
+    "mf.": "Wakati wa mazishi jamaa za marehemu walivalia nguo nyeusi kama kaniki."
+  },
+  {
+    "number": 157,
+    "phrase": "Eusi kama kizimwili",
+    "m.s.": "Kizimwili ni aina ya maradhi ya mmea ambayo huzuia ukuaji wa mazao nabadala yake kutoa ungaunga mweusi unaojifunga kwenye shuke.",
+    "m.y.": "Eusi kupindukia.",
+    "mf.": "Felistus ameishia kuolewa na jamaa wa Uganda mweusi kama kizimwili."
+  },
+  {
+    "number": 158,
+    "phrase": "Eusi kama lami",
+    "m.s.": "Lami ni mashata ya madini yanayotumiwa kutengenezea barabara au kuutiwa mbaoni kuzuia maji yasipenye.",
+    "m.y.": "Eusi sana.",
+    "mf.": "Baada ya nyumba yake kushika moto kuta zenyewe zimekuwa nyeusi kama lami."
+  },
+  {
+    "number": 159,
+    "phrase": "Eusi kama makaa",
+    "m.s.": "",
+    "m.y.": "Eusi sana. Matumizi yake ni sawa na eusi kama chungu.",
+    "mf.": ""
+  },
+  {
+    "number": 160,
+    "phrase": "Eusi kama mpingo",
+    "m.s.": "Mpingo ni aina ya mti wenye kiini cheusi na unaotumiwa kutengezea vyombo vya nyumbani.",
+    "m.y.": "Eusi sana. Linganisha na tashbihi zinazotangulia.",
+    "mf.": "Farida amemkataa Jimmi kwa sababu ya rangi yake ya uso, anasema kuwa hawapendi wanaume weusi kama mpingo."
+  },
+  {
+    "number": 161,
+    "phrase": "Eusi kama masizi",
+    "m.s.": "Masizi ni unga mweusi wa makaa au moshi.",
+    "m.y.": "Eusi sana.",
+    "mf.": "Wale wapangaji walioishi nyumba aliyohamia waliichafua sana ikawa nyeusi kama masizi."
+  },
+  {
+    "number": 162,
+    "phrase": "Fahamikiana kama kinu na mchi",
+    "m.s.": "Kinu ni chombo cha mti au jiwe cha kutwangia kwa kutumia kipande cha mti, mchi. Kimoja hakitumiki bila chenzake.",
+    "m.y.": "Fahamikiana kabisa.",
+    "mf.": "Ukitaka kupata msaada kutoka kwa mkurugenzi zungumza na jirani yake ambaye anafahamikiana naye kama kinu na mchi."
+  },
+  {
+    "number": 163,
+    "phrase": "Fahamu kama nyoka na shimo",
+    "m.s.": "",
+    "m.y.": "Fahamu vizuri; nyoka huishi shimoni kwa hiyo hulifahamu sana.",
+    "mf.": "Amejaribu kunipumbaza bila ya kujua namfahamu kama nyoka na shimo."
+  },
+  {
+    "number": 164,
+    "phrase": "Fahamu kama sehemu ya juu (ya nyuma) ya kiganja cha mkono",
+    "m.s.": "",
+    "m.y.": "Fanya kazi nzito na nyingi. Aghalabu punda hufanyiz kazi nyingi mno.",
+    "mf.": "Yule mfanyikazi ametoroka kazini kwa kusemahawe kufanya kazi kipunda."
+  },
+  {
+    "number": 168,
+    "phrase": "Fanya mambo kama mjinga",
+    "m.s.": "",
+    "m.y.": "Tenda mambo bila ya makini kama mtu mpumbavu.",
+    "mf.": "Ali alipata nafasi nzuri ya kujiendeleza lakini akafanyo mambo kama mjinga akaachishwa kazi."
+  },
+  {
+    "number": 169,
+    "phrase": "Fanya upesi kama umeme",
+    "m.s.": "",
+    "m.y.": "Fanya jambo haraka mfano wa unavyoenda haraka umeme.",
+    "mf.": "Wanafunzi waliifanya kazi waliyopewa upesi kama umeme kisha wakaenda kucheza."
+  },
+  {
+    "number": 170,
+    "phrase": "Ficha (tunza) siri kama kaburi",
+    "m.s.": "",
+    "m.y.": "Bania au weka siri sana. Huwezi kujua lolote kumhusu aliyezikwa kaburini.",
+    "mf.": "Ingawa nimemweleza Andrew habari nyeti kama zile sina wasiwasi kwa kuwa anaficha siri kama kaburi."
+  },
+  {
+    "number": 171,
+    "phrase": "Fuata kama nzi",
+    "m.s.": "",
+    "m.y.": "Fuata kila mahali mfano wa nzi.",
+    "mf.": "Wasichana wanamfuata John kama nzi kwa kuwa ana pesa nyingi."
+  },
+  {
+    "number": 172,
+    "phrase": "Fuata kama kipofu Maana na matumizi ya tashbihi hii ni sawa na ya fuata kama kondoo.",
+    "m.s.": "",
+    "m.y.": "",
+    "mf.": ""
+  },
+  {
+    "number": 173,
+    "phrase": "Fuata kama kondoo.",
+    "m.s.": "",
+    "m.y.": "Andama bila kufikiri. Fuata mmoja baada ya mwingine na hasa bila ya kufikiria.",
+    "mf.": "Watu wamejaribu kumkanya Andrew lakini amekazania kuwafuata wenzake kama kondoo."
+  },
+  {
+    "number": 174,
+    "phrase": "Fuata kama Msahafu",
+    "m.s.": "Msahafu ni kitabu kitakatifu hasa cha Waislamu kilichokusanya juzuu thelathini za Kurani.",
+    "m.y.": "Fuata kwa makini kama waumini wanavyofuata mafundisho ya kitabu kitukufu.",
+    "mf.": "Mtalii aliyafuata maagizo aliyopewakama Msahafu hadi akafika alikoelekezwa."
+  },
+  {
+    "number": 175,
+    "phrase": "Fuata fuata kama kivuli",
+    "m.s.": "Masazo au mabaki ya chakula yaliyoganda kwenye chombo kilichopikiwa huitwa ukoko. Utando ni chochote kilichowamba mahali.",
+    "m.y.": "Fuatana kila mahali; kuwa pamoja",
+    "mf.": "Ikiwa Herman ameahidi kufika jioni haikosi hata Aggrey atafika kwa vile wanafuatana kama utando na ukoko."
+  },
+  {
+    "number": 182,
+    "phrase": "Fuatana kama zabadi na zinduna",
+    "m.s.": "Zabadi ni aina ya manukato yanayotokana na ngawa.Matumizi ya tashbihi hii ni sawa na ya fuatana kama ambari na zinduna.",
+    "m.y.": "",
+    "mf.": ""
+  },
+  {
+    "number": 183,
+    "phrase": "Fuka moshi kama gari la moshi",
+    "m.s.": "",
+    "m.y.": "Toa moshi mwingi mno.Gari moshi za zamani zilitoa moshi mwingi sana.",
+    "mf.": "Tulitambua palipokuwepo na hatari palipofuka moshi kama gari moshi."
+  },
+  {
+    "number": 184,
+    "phrase": "Fukuzana kama mawimbi",
+    "m.s.": "Kidunundu ni aina ya samaki mdogo.",
+    "m.y.": "Fungana sana ikawa vigumu kupita. Fupi kama kidunundu",
+    "mf.": "Juma alishindwa kumwona raisi kwa kuwa ni mfupi kama kidunundu na mbele yake palisimama watu warefu."
+  },
+  {
+    "number": 187,
+    "phrase": "Fupi kama mbilikimo",
+    "m.s.": "Mbilikimo ni mtu aliye mfupi kuliko ilivyo kawaida.",
+    "m.y.": "Fupi kwa kimo.",
+    "mf.": "Yule mwanamuziki aliyejulikana kama Emoro alikuwa mfupi kama mbilikimo."
+  },
+  {
+    "number": 188,
+    "phrase": "Fupi kama mkia wa mbuzi",
+    "m.s.": "",
+    "m.y.": "Fupi sana hasa kwa kimo. Mkia wa mbuzi huwa mfupi sana ukilinganishwa na mnyama kama ng’ombe.",
+    "mf.": "Ufito alioniletea haukufaa chochote kwa vile ulikuwa mfupi kama mkia wa mbuzi."
+  },
+  {
+    "number": 189,
+    "phrase": "Fupi kama nyundo",
+    "m.s.": "Hamira au chachu ni dawa inayofanya unga uliokandwa uumke.",
+    "m.y.": "Kuwa na furaha nyingi hasa baada ya kufanikiwa au kwa sababu ya tukio fulani zuri.",
+    "mf.": "Baada ya refa kupuliza kipenga chake, kipa wa timu iliyoshinda aliwakimbilia wenzake akifurahi kama bwana arusi. Furahi kama mzazi aliyepata salama Maana na matumizi ya tashbihi hii ni sawa na ya enye furaha kama mzazi aliyepata salama."
+  },
+  {
+    "number": 193,
+    "phrase": "Fyatuka kama mshale",
+    "m.s.": "",
+    "m.y.": "Enda kasi au mbio; enda moja kwa moja.",
+    "mf.": "Baada ya kupewa maagizo na mwalimu mkuu, yule mwanafunzi alifyatuka kama mshalekuelekeasokoni"
+  },
+  {
+    "number": 194,
+    "phrase": "Ganda kama gundi",
+    "m.s.": "Gundi ni utomvu wa mti unaonata sana.",
+    "m.y.": "Andama sana; nata sana.",
+    "mf.": "Mafuta aliyoyashika yamemganda viganjani kama gundi. Ganda kama kigaga Matumizi ya tashbihi hii ni sawa na ya bandika mtu kama kigaga."
+  },
+  {
+    "number": 196,
+    "phrase": "Ganda kama kupe",
+    "m.s.": "Ganda ni shika au nata.",
+    "m.y.": "Shikilia au nata kwa nguvu bila ya kuachilia; kuandama kila mahali.",
+    "mf.": ""
+  },
+  {
+    "number": 197,
+    "phrase": "Ganda kama ruba",
+    "m.s.": "Ruba ni mdudu anayefanana na nyugwinyugwi na ambaye hufyonza damu na hukaa majini; huwavamia ng'ombe sana.",
+    "m.y.": "Andama sana hasa kwa nia ya kujifaidi.",
+    "mf.": "Yule kahaba amemganda mnfanyibiashara kama ruba,hataki kumwachilia asilani."
+  },
+  {
+    "number": 198,
+    "phrase": "Ganda kama sherisi",
+    "m.s.": "Sherisi au ambo ni aina ya gundi itumiwayo na maseremala.",
+    "m.y.": "Shika au nata sana. Matumizi ya tashbihi hii ni sawa na ganda kama gundi.",
+    "mf.": ""
+  },
+  {
+    "number": 199,
+    "phrase": "Ganda kama ukoga",
+    "m.s.": "Ukoga ni uchafu wa meno.",
+    "m.y.": "Ganda sana na hasa kuenea.",
+    "mf.": "Yule mfanyikazi amelitumia lile vazi moja kwa muda mrefu mpaka likaganda uchafu kama ukoga."
+  },
+  {
+    "number": 200,
+    "phrase": "Gandamiza kama ruba",
+    "m.s.": "Kugaragara ni kwenda huku na huku au kujigeuza.",
+    "m.y.": "Kutotulizana; hangaika sana.",
+    "mf.": "Baada ya kuelezwa habari zile Peter alishindwa kupata usingizi akabakia kugaragara kama mgonjwa."
+  },
+  {
+    "number": 202,
+    "phrase": "Gawa kisadaka",
+    "m.s.": "Punda kihongwe akigoma kufanya kazi huwa haendi hata akafanywa nini.",
+    "m.y.": "Pigapiga kichwa ukiwaza. Watu huamini kuwa mtu aliyesahau kitu hujipigapiga kichwa kujikumbusha alilolisahau.",
+    "mf.": "Alipoelezwa mkasa uliompata mwanawe alijigota kichwa kama mtu aliyesahau."
+  },
+  {
+    "number": 207,
+    "phrase": "Gumu kama chuma",
+    "m.s.": "",
+    "m.y.": "Gumu sana. Chuma huwa ngumu sana.",
+    "mf.": "Tulijitahidi kulipasua lile gogo la mpingo lakini tukashindwa kwa vile lilikuwa gumu kama chuma."
+  },
+  {
+    "number": 208,
+    "phrase": "Gumu kama jiwe (la kinoo)",
+    "m.s.": "Kinoo ni aina ya jiwe linalotumiwa kutilia makali vitu kama kisu, panga, shoka n.k.",
+    "m.y.": "Gumu sana, isiyopenyeka.",
+    "mf.": "Wale majambazi walijaribu kuuvunja mlango wa nyumba lakini ukawa mgumu kama jiwe."
+  },
+  {
+    "number": 209,
+    "phrase": "Gumu kama kichwa cha kondoo",
+    "m.s.": "",
+    "m.y.": "Gumu sana, isiyosikia uchungu au maumivu. Kondoo hupigana kwa kutumia vichwa vyao ambavyo huvigonganisha.",
+    "mf.": "Yule mwanamiereka alimpiga mwenzake kifuani lakini hakutingishika, kifua chake kilikuwa kigumu kama kichwa cha kondoo."
+  },
+  {
+    "number": 210,
+    "phrase": "Gumu kama kigongo",
+    "m.s.": "Kigongo ni rungu.",
+    "m.y.": "Gumu kiasi cha kutovunjika rahisi.",
+    "mf.": "Mwalimu alimtandika mwanafunzi viboko kwa fimbo iliyokuwa ngumu kama kigongo."
+  },
+  {
+    "number": 211,
+    "phrase": "Gutuka kama mtu aliyepigwa fimbo",
+    "m.s.": "",
+    "m.y.": "Shtuka ghafla.",
+    "mf.": "Hakuwa akisikiliza kwa makini hadi lilipotajwa jinalake na kumfanya agutuke kama mtu aliyepigwa fimbo."
+  },
+  {
+    "number": 212,
+    "phrase": "Hadaa kama jua la masika",
+    "m.s.": "Hadaa ni udanganyifu.",
+    "m.y.": "Udanganyifu mwingi; kutotegemeka.Huwa sio rahisi kuliona jua wakati wa msimu wa mvua kwa kuwa huwa mna mawingu mengi sana.",
+    "mf.": "Ingawa ameniahidi kunilipa wiki hii simwamini kwa kuwa ahadi zake ni za hadaa kama jua la masika."
+  },
+  {
+    "number": 213,
+    "phrase": "Haha kama bata",
+    "m.s.": "Haha ni toa pumzi kwa kasi na shida; hema.",
+    "m.y.": "Babaika sana au shikwa na hofu, hema sana. Bata huhemahema sana.",
+    "mf.": "Alipotakiwa aeleze sababu zilizomfanya aibe pesa za tajiri yake alibakia kuhaha kama bata."
+  },
+  {
+    "number": 214,
+    "phrase": "Hakika kama mauti",
+    "m.s.": "Mkizi ni samaki ambaye anaponaswa na nyavu za mvuvi hujirusharusha na kuishia kuzongwa sana na nyavu zenyewe na kwa njia hiyo akajiangamiza mwenyewe.",
+    "m.y.": "Hema sana kutokana na hofu kubwa.",
+    "mf.": "Fredrick alihema kama sungura mtegoni aliposimamishwa na makachero njiani."
+  },
+  {
+    "number": 221,
+    "phrase": "Heshimu kama mzazi",
+    "m.s.": "",
+    "m.y.": "Heshimu sana kutokana na sifa alizonazo mtu; mzazi hupewa heshima kubwa na mwana.",
+    "mf.": "Wanafunzi wanamheshimu mwalimu wao mkuu kama mzazi."
+  },
+  {
+    "number": 222,
+    "phrase": "Heshima ya mwari",
+    "m.s.": "Mwari ni mtu aliyewekwa ndani kwa kutawishwa.Bwana au bibi arusi wakati wa fungate (siku za baada ya arusi).",
+    "m.y.": "Mwari huwa na heshima kubwa sana kwa wakuu wake.",
+    "mf.": "Mjomba alishindwa kunilaumu kwa sababu ya heshima zangu za mwari kwake."
+  },
+  {
+    "number": 223,
+    "phrase": "Hifadhi kama kasuku",
+    "m.s.": "Kasuku ni ndege ambaye ana uwezo wa kuiga maneno kama binadamu.",
+    "m.y.": "Hifadhi sana na hasa akilini; weza kuweka maneno uliyoyasikia bila ya kuyasahau.",
+    "mf.": "Usimwone mwanawe amenyamaza mkiongea ukamdharau anayahifadhi maneno yote kama kasuku."
+  },
+  {
+    "number": 224,
+    "phrase": "Ibuka kama habari",
+    "m.s.": "",
+    "m.y.": "Enea au tokeza na kujulikana sana.",
+    "mf.": "Baada ya mashindano yaliyofanyika mwezi jana ujuzi wa timu yao umeibukat kama habari."
+  },
+  {
+    "number": 225,
+    "phrase": "Ibuka kama uyoga",
+    "m.s.": "",
+    "m.y.": "Tokeza kwa wingi; chipuka kwa nguvu.",
+    "mf.": "Mbegu alizopanda zimeibuka chaani(sehemu ya kupandia mbegu) kama uyoga."
+  },
+  {
+    "number": 226,
+    "phrase": "Iga kama kasuku",
+    "m.s.": "Mwari ni mtu aliyewekwa ndani kutawwishwa.",
+    "m.y.": "Onyesha heshima au nyenyekea. Mwari huonyesha heshima kwa somo lake.",
+    "mf.": "Waziri alimkabidhi raisi mchango wake kisha akamwinamia kama mwari."
+  },
+  {
+    "number": 234,
+    "phrase": "Inda ya joka la mdimu",
+    "m.s.": "Inda ni uzuiliaji wa kitu ili kisimfikie mwingine. Pia unyambi.",
+    "m.y.": "Inda ya kumzuia mtu kitu ambacho huna haja nacho.Joka la mdimu hukaa penye mdimu na kuwazuia waendao kutunda licha ya kuwa halizili ndimu zenyewe.",
+    "mf.": "Maria ana inda ya joka la mdimu kweli, sketi havai lakini hataki kumpa mwenzake."
+  },
+  {
+    "number": 235,
+    "phrase": "Ingi kama mchanga wa bahari",
+    "m.s.": "Kichuguu ni nyumba ya udongo ijengwayo na mchwa.",
+    "m.y.": "Isiyoweza kuhesabika kwa urahisi. Mchwa huwa wengi kichuguuni kwa kuwa hayo ndiyo makao yao.",
+    "mf.": "Watu waliokuwepo katika mazishi yale walikuwa wengi kama mchwa kichuguuni."
+  },
+  {
+    "number": 237,
+    "phrase": "Ingi kama siafu",
+    "m.s.": "",
+    "m.y.": "Ingi sana hasa kwa kufuatana pamoja.",
+    "mf.": "Mashabiki waliotoka uwanja wa mpira walikuwa wengi kama siafu."
+  },
+  {
+    "number": 238,
+    "phrase": "Inuka kama mlima",
+    "m.s.": "",
+    "m.y.": "Jitokeza sana, weza kuonekana kwa mbali. Milima huwa imejitokeza juu ya vitu vingine.",
+    "mf.": "Huwezi kuikosa nyumba yake pale kijijini, imeinuka kama mlima."
+  },
+  {
+    "number": 239,
+    "phrase": "Iva kama papai",
+    "m.s.": "",
+    "m.y.": "Iva sana. Aghalabu mapapai huiva sana.",
+    "mf.": "Nilishindwa kuyala maembe aliyonipa kwa kuwa yaliiva kama papai."
+  },
+  {
+    "number": 240,
+    "phrase": "Janja kama Abunuwasi/Bunuwasi",
+    "m.s.": "Abunuwasi alikuwa mhusika mjanja anayepatikana katika hadithi za masimulizi kutoka Uarabuni.",
+    "m.y.": "Erevu au janja sana.",
+    "mf.": "Nimejaribu kumfuata anilipe fedha zangu lakini amekuwa mjanja kama Abunuwasi."
+  },
+  {
+    "number": 241,
+    "phrase": "Janja kama kifaurongo",
+    "m.s.": "Kifaurongo ni aina ya mmea ambao unapoguswa hujikunja",
+    "m.y.": "Danganyifu1; enye uwezo wa kuonyesha sifa tofauti.",
+    "mf.": "Aliposikia baba akisema anataka kumtuma mbali Ali aliifanya mjanja kama kifaurongo kwa kusema alikuwa akiumwa."
+  },
+  {
+    "number": 242,
+    "phrase": "Janja kama kitatange",
+    "m.s.": "Kitatange ni samaki mdogo anayewaongoza wengine kuingia mtegoni (demani) lakini mwenyewe hashikiki.",
+    "m.y.": "Janja sana, enye uwezo wa kuwatosa watu au wengine mtegoni kisha ukaepuka.",
+    "mf.": "Andrew alitushauri tumshambulie mwalimu, sasa tumeadhibiwa wakati yeye ameepuka, kawa mjanja kama kitatange."
+  },
+  {
+    "number": 243,
+    "phrase": "Janja kama sungura m.y. Janja sana, enye uwezo wa kuepuka hatari kwa ujanja.Sungura ni mnyama mwenye sifa hii katika maisha na hata katika masimulizi.",
+    "m.s.": "",
+    "m.y.": "",
+    "mf.": "Tulishikwa sote tukila maembe kwa jirani lakini Omari akawa mjanja kama sungura akaepuka adhabu."
+  },
+  {
+    "number": 244,
+    "phrase": "Jazana kama magunia m.y. Jaa mahali kwa kubanana na hasa bila mpango maalum.Aghalabu magunia hutupwa au huwekwa pamoja bila mpango maalum.",
+    "m.s.": "",
+    "m.y.": "",
+    "mf.": ""
+  },
+  {
+    "number": 245,
+    "phrase": "Jazana kama nyuki mzingani m.y. Kuwa wengi mahali fulani hasa penye shughuli fulani Mzinga wa nyuki huwa na nyuki wengi sana.",
+    "m.s.": "",
+    "m.y.": "",
+    "mf.": ""
+  },
+  {
+    "number": 246,
+    "phrase": "Jazana kama samaki baharini m.y. Kuwa wengi sana na wa kila aina. Bahari huwa na samaki wasio idadi na wa kila aina.",
+    "m.s.": "",
+    "m.y.": "",
+    "mf.": "Watu walijazana kama samaki baharini katika uwanja wa maonyesho ya kilimo."
+  },
+  {
+    "number": 247,
+    "phrase": "Jibingirisha kama gogo",
+    "m.s.": "",
+    "m.y.": "Jizungusha zungusha mfano wa gogo la mti.",
+    "mf.": "Watu walishangaa jinsi yule mwanasarakasi alivyojibingirisha jukwaani kama gogo."
+  },
+  {
+    "number": 248,
+    "phrase": "Jibingirisha kama jiwe/jabali Maana na matumizi ya tashbihi hii ni sawa na ya jibingirisha kama gogo.",
+    "m.s.": "",
+    "m.y.": "",
+    "mf.": ""
+  },
+  {
+    "number": 249,
+    "phrase": "Jibwaga kama gunia",
+    "m.s.": "",
+    "m.y.": "Kaa chini kwa kujiachia tu kama mtu aliyechoka sana.Gunia hutupwa chini tu pasi kuwazia lolote.",
+    "mf.": "Alipofika nyumbani alikuwa amechoka tiki, akajibwaga kochini kama gunia."
+  },
+  {
+    "number": 250,
+    "phrase": "Jikunyata kama aliyenyeshewa",
+    "m.s.": "",
+    "m.y.": "Patwva na huzuni au jitimai; mtu aliyenyeshewa hujikunja kwa sababu ya baridi.",
+    "mf.": "Alipokemewa na mke wake alijikunyatia kando kama mtu aliyenyeshewa."
+  },
+  {
+    "number": 251,
+    "phrase": "Jikunyata kama kuku aliyelowa maji",
+    "m.s.": "",
+    "m.y.": "Kuwa katika hali ya mzubao mkubwa au kuwa na huzuni. Kuku aliyelowa maji huonekana dhaifu na mnyonge sana.",
+    "mf.": "Yule kijana aliyeiba mfuko wa mwanamke alizomewa na ule umati huku amejikunyata kama kuku aliyelowa maji."
+  },
+  {
+    "number": 252,
+    "phrase": "Jikwatua kama malkia",
+    "m.s.": "",
+    "m.y.": "Jipamba vizuri sana. Mke wa mfalme, malkia,hujipamba vizuri sana.",
+    "mf.": "Rose alikuwepo harusini amejikwatua kama malhia utadhani anaolewa yeye."
+  },
+  {
+    "number": 253,
+    "phrase": "Jikweza kama mwenye pumu",
+    "m.s.": "",
+    "m.y.": "Pandisha mabega au kifua. Mgonjwa wa pumu huwa na shida ya kupumua na aghalabu hupandisha mabega katika jitihada hizo.",
+    "mf.": "Andrew alikasirishwa sana na matamshi yale akawa anajikweza mabega kama mwenye pumu."
+  },
+  {
+    "number": 254,
+    "phrase": "Jinga kama dubu m.s. Dubu ni aina ya mnyama wa porini na pia ni mtu mpumbavu.",
+    "m.s.": "",
+    "m.y.": "Jinga au pumbavu sana.mf: Nilijaribu kumwelekeza jinsi ya kuifanya kazi ile lakini hakuweza kunielewa alivyo mjinga kama dubu.",
+    "mf.": ""
+  },
+  {
+    "number": 255,
+    "phrase": "Jinga kama ng'’ombe m.y. Jinga sana na hasa kwa kukosa nadhari au akili.",
+    "m.s.": "",
+    "m.y.": "",
+    "mf.": ""
+  },
+  {
+    "number": 256,
+    "phrase": "Jinga kama kondoo m.y. Mjinga sana na hasa anayefuata wengine tu. Kondoo husawiriwa kama mnyama mjinga katika masimulizi mengi.",
+    "m.s.": "",
+    "m.y.": "",
+    "mf.": ""
+  },
+  {
+    "number": 257,
+    "phrase": "Jiona kama binti Huzaima m.s. Huzaima ni kabila kubwa la Kiarabu ambalo ni maarufu.",
+    "m.s.": "",
+    "m.y.": "",
+    "mf.": ""
+  },
+  {
+    "number": 258,
+    "phrase": "Jiona kama binti Kinana m.s. Kinana ni kabila kubwa la Kiarabu.",
+    "m.s.": "",
+    "m.y.": "",
+    "mf.": ""
+  },
+  {
+    "number": 259,
+    "phrase": "Jipamba kama ruhani(mwanamke)m.s. Ruhani ni mwanamke anayesemekana hujipamba vizuri sana. Huaminiwa kupatikana ahera.",
+    "m.s.": "",
+    "m.y.": "Jipamba sana.",
+    "mf.": "Bi arusi alijipamba kama ruhani, watu walishinda kumwangalia."
+  },
+  {
+    "number": 260,
+    "phrase": "Jipenda kinafsi",
+    "m.s.": "",
+    "m.y.": "Jipenda sana. Hamna mtu asiyeipenda nafsi yake.",
+    "mf.": "1. Ali hawezi kuifanya kazi ya kuchosha kwa kuwa anajipenda kinafsi."
+  },
+  {
+    "number": 2,
+    "phrase": "Licha ya kuwa Alfred alimpenda Maria kinafsi mwenyewe alimkataa.",
+    "m.s.": "",
+    "m.y.": "",
+    "mf.": ""
+  },
+  {
+    "number": 261,
+    "phrase": "Jipinda kama mwenye kibyongo",
+    "m.s.": "",
+    "m.y.": "Fanya kuwa na tao au mkunjo. Kama mtu aliyepindika mgongo au mwenye nundu au kiduva.mf: Tangu aumizwe katika ghasia zile, Aggrey amejipinda siku hizi kama mwenye kibyongo.",
+    "mf.": ""
+  },
+  {
+    "number": 262,
+    "phrase": "Jipindapinda kama nyoka m.y. Kujigeuza geuza huku na huku aghalabu kutokana na maumivu.",
+    "m.s.": "",
+    "m.y.": "",
+    "mf.": ""
+  },
+  {
+    "number": 263,
+    "phrase": "Jiregeza kimboga ya mayugwa",
+    "m.s.": "Mayugwa ni aina ya viazi vinavyofanana na muhogo na ambavyo huwa laini vikipikwa. Huitwa pia majimbi.m.y. Mzembe; regea na kuwa laini sana.",
+    "m.y.": "",
+    "mf.": "Alipojua kuwa wakati wa michezo umewadia, Sirengo alijiregeza kimboga ya mayugwa mpaka mwalimu aliyehusika akasema asisumbuliwe."
+  },
+  {
+    "number": 264,
+    "phrase": "Jitia kati kama mchuzi wa ugali",
+    "m.s.": "",
+    "m.y.": "Ingilia mambo ya watu wengine, dakia. Mtu anapokula ugali hufanya kitobo kisha akautia mchuzi au kitoweo ndani na kula.",
+    "mf.": "Simpendi Lillian kutokana na tabia yake ya hujitia hati kama mchuzi wa ugali."
+  },
+  {
+    "number": 265,
+    "phrase": "Jitupa kama mzoga",
+    "m.s.": "",
+    "m.y.": "Jitupa kama huna hisia kutokana na kuchoka au kuvunjikiwa. Mzoga yaani mwili wa mnyama aliyekcufa hutupwa pasi kuwazia lolote.",
+    "mf.": "Yule mtoto aliyeadhibiwa na mamake kwa kumkosea adabu mgeni alijitupa chini kama mzoga."
+  },
+  {
+    "number": 266,
+    "phrase": "Jivuna kama kanga",
+    "m.s.": "Kanga ni kuku wa porini mwenye rangi nyeusi na madoadoa meupe; huvutia sana.",
+    "m.y.": "Jivuna sana.mf: Nimemuona Maria leo sokoni amevalia nguo nzuri anajivuna kama kanga.",
+    "mf.": ""
+  },
+  {
+    "number": 267,
+    "phrase": "Jua kama mwisho wa mwezi m.y. Fahamu vizuri sana; elewa sana. Mwisho wa mwezi ni siku muhimu kwa kila mfanyikazi. Kila mmoja anaijua siku hii vyema.",
+    "m.s.": "",
+    "m.y.": "",
+    "mf.": ""
+  },
+  {
+    "number": 268,
+    "phrase": "Kaa ndani kama kuku anayeatamia mayai m.y. Kaa mahali kwa sababu fulani muhimu. Kuku anayeatamia mayai hatoki kwa kuwa mayai yanaweza kuharibika.",
+    "m.s.": "",
+    "m.y.": "",
+    "mf.": ""
+  },
+  {
+    "number": 269,
+    "phrase": "Kaa ndani kama mfungwa m.y. Kaa mahali bila ya kutokatoka. Mfungwa huwa hana uhuru wa kutoka nje.",
+    "m.s.": "",
+    "m.y.": "",
+    "mf.": ""
+  },
+  {
+    "number": 270,
+    "phrase": "Kaa ndani kama mtawa m.y. Kaa mahali pasipo na kutoka kwa kuwa huna uhuru huo.",
+    "m.s.": "",
+    "m.y.": "",
+    "mf.": ""
+  },
+  {
+    "number": 271,
+    "phrase": "Kaa tuli kama aliyenyang'anywa ulimi",
+    "m.s.": "",
+    "m.y.": "Nyamaza kwa kushindwa la kufanya. Mtu hawezi kusema ikiwa hana ulimi.",
+    "mf.": "Alishindwa kukabiliana na mjuzi wa kujadili kama Andrea akaamua kukaa tuli kama mtu aliyenyang’anywa ulimi."
+  },
+  {
+    "number": 272,
+    "phrase": "Kaidi kama mkia wa nguruwe",
+    "m.s.": "",
+    "m.y.": "Kataa kufanya lolote. Nguruwe anaposumbuliwa na wadudu hutamani kuutumia mkia wake kuwawingia lakini wenyewe mfupi haufai kitu.",
+    "mf.": "Wazee wa baraza la kijiji wamemshauri Ngewa asiwatelekeze watoto wake lakini amekaidi kama mhia wa nguruwe."
+  },
+  {
+    "number": 273,
+    "phrase": "Kaidi kama punda (kihongwe)",
+    "m.s.": "",
+    "m.y.": "Kataa kabisa. Punda akishaamua hafanyi kazi huwa vigumu kumgeuza nia. Matumizi ya tashbihi hii ni sawa na ya iliyotangulia.",
+    "mf.": ""
+  },
+  {
+    "number": 274,
+    "phrase": "Kali kama moto",
+    "m.s.": "",
+    "m.y.": "Kali sana;enye kutia uchungu; enye kutisha. Kila mtu huogopa moto kwa vile unaweza kuchoma na kuua.mf: Mwalimu mkuu alimpa mwanafunzi aliyeongoza mgomo adhabu kali kama moto.",
+    "mf.": ""
+  },
+  {
+    "number": 275,
+    "phrase": "Kali kama pilipili hoho au pilipili mwachaka m.s. Pilipili hoho na pilipili mwachaka huwa aina ya pilipili ndogo lakini zinazowasha sana.",
+    "m.s.": "",
+    "m.y.": "",
+    "mf.": "Hamna haja ya kumwendea mkewe John; ni mkali kama pilipili mwachaka."
+  },
+  {
+    "number": 276,
+    "phrase": "Kali kama siki (ya miaka saba)",
+    "m.s.": "Siki ni maji yaliyochachuliwa kwa makusudi ya kuongeza ladha katika chakula au katika dawa. Siki iliyokaa muda mrefu huwa kali sana.",
+    "m.y.": "Chungu kwa ladha.",
+    "mf.": "Mtoto alishindwa kuzimeza zile dawa kwa kuwa zilikuwa kali kama siki ya miaka saba."
+  },
+  {
+    "number": 277,
+    "phrase": "Kali kama simba m.y. Kuwa hatari sana. Simba ni mnyama mkali sana.",
+    "m.s.": "",
+    "m.y.": "",
+    "mf.": ""
+  },
+  {
+    "number": 278,
+    "phrase": "Kali kama upanga ulionolewa m.y. Enye uwezo wa kukata. Upanga uliotiwa makali hukata.",
+    "m.s.": "",
+    "m.y.": "",
+    "mf.": ""
+  },
+  {
+    "number": 279,
+    "phrase": "Kali kama wembe m.y. Enye uwezo wa kukata; enye kupenya.",
+    "m.s.": "",
+    "m.y.": "",
+    "mf.": ""
+  },
+  {
+    "number": 280,
+    "phrase": "Kalia mtu kama nduli m.s. Nduli ni katili au mtoa roho. Pia shetani wa mauti.",
+    "m.s.": "",
+    "m.y.": "",
+    "mf.": ""
+  },
+  {
+    "number": 281,
+    "phrase": "Karibu ya pua na mdomo m.y. Karibu sana. Pua huwa karibu sana na mdomo katika uso wa binadamu.",
+    "m.s.": "",
+    "m.y.": "",
+    "mf.": ""
+  },
+  {
+    "number": 283,
+    "phrase": "Kavu kama jangwa (la Sahara)/ardhi ya jangwani m.s. Jangwa ni pahali pasipoota nyasi au miti.",
+    "m.s.": "",
+    "m.y.": "",
+    "mf.": ""
+  },
+  {
+    "number": 284,
+    "phrase": "Kawaida ni kama sheria m.y. Mazoea ni kitu kigumu kuacha. Jamii yoyote ile huwa na sheria ambazo humjuzu kila mwanajamii kuzifuata",
+    "m.s.": "",
+    "m.y.": "",
+    "mf.": "Ali alitoka jela mwezi jana kwa sababu ya wizi,hivi leo ameiba tena kumbe kawaida ni kama sheria tu!"
+  },
+  {
+    "number": 285,
+    "phrase": "Kigeugeu kama kinyonga/lumbwi",
+    "m.s.": "",
+    "m.y.": "Asiyetegemewa;kauleni. Kinyonga hubadilika kutegemea mazingira.",
+    "mf.": "Usidanganyike kuwa Simon anakuunga mkono leo, yeye ni kigeugeu kama kinyonga anaweza akakukana kesho."
+  },
+  {
+    "number": 286,
+    "phrase": "Kimbia kama farasi",
+    "m.s.": "",
+    "m.y.": "Timua mbio sana. Farasi ni mnyama mwenye mbio sana.mf: Watu walikimbia kama farasi waliposikia mlio wa bunduki.",
+    "mf.": ""
+  },
+  {
+    "number": 287,
+    "phrase": "Kodoa macho kama bundi",
+    "m.s.": "",
+    "m.y.": "Toa macho pima kwa sababu ya hofu au woga. Bundi ni ndege mwenye macho makubwa sana.mf: Alipotokezewa na yule mbakaji, Maria alikodoa macho kama bundi asijue la kufanya.",
+    "mf.": ""
+  },
+  {
+    "number": 288,
+    "phrase": "Kodolea macho kama sanamu",
+    "m.s.": "Sanamu ni dude la kufinyanga au kuchongwa linalofanana na binadamu.",
+    "m.y.": "Tazama kwa mshangao mkubwa.mf: Aliponiona nimeambatana na mke wangu huku tumeshikana mikono alinikodolea macho kama sanamu.",
+    "mf.": ""
+  },
+  {
+    "number": 289,
+    "phrase": "Konda kama mbwa koko",
+    "m.s.": "Mbwa koko ni mbwa anayejizungukia ovyo tu.m.y Konda kwa sababu ya kutojitunza au kutunzwa vyema.",
+    "m.y.": "",
+    "mf.": ""
+  },
+  {
+    "number": 290,
+    "phrase": "Konda kama ng'onda",
+    "m.s.": "Ng'onda ni samaki aliyepasuliwa sehemu mbili zilizo sawa kisha akaanikwa juani.m.y. Konda sana; kuwa na mwili dhaifu na mnyonge.",
+    "m.y.": "",
+    "mf.": "Tangu aanze kuugua maradhi ya ukimwi, Shayo amekonda kama ng’onda."
+  },
+  {
+    "number": 291,
+    "phrase": "Konda kama sindano Maana na matumizi ni sawa na ya embamba kama sindano.",
+    "m.s.": "",
+    "m.y.": "",
+    "mf.": ""
+  },
+  {
+    "number": 292,
+    "phrase": "Konda kama unyasi",
+    "m.s.": "",
+    "m.y.": "Konda sana hasa kutokana na hali fulani.",
+    "mf.": "Ukiwa uliompita Regina baada ya kifo cha mumewe umemfanya akonde kama unyasi."
+  },
+  {
+    "number": 293,
+    "phrase": "Konda kama uzi Angalia, embamba kama uzi.",
+    "m.s.": "",
+    "m.y.": "",
+    "mf.": ""
+  },
+  {
+    "number": 294,
+    "phrase": "Kongamana kama mtu na nduguye",
+    "m.s.": "",
+    "m.y.": "Kubaliana juu ya jambo fulani vizuri kama ndugu.",
+    "mf.": "Nilitarajia yazuke mabishano makubwa mkutanoni lakini watu walikongamana kama mtu na nduguye."
+  },
+  {
+    "number": 295,
+    "phrase": "Kosa shukrani kama punda",
+    "m.s.": "",
+    "m.y.": "Kosa shukrani kabisa. Shukrani za kumtendea mema punda ni mateke.",
+    "mf.": "Nimemtafutia kazi kisha akaikataa, kumbe kakosa shukrani kama punda."
+  },
+  {
+    "number": 296,
+    "phrase": "Kua kama mgomba, mnazi unakawia m.y. Inukia haraka; jaliwa ustawi. Aghalabu mgomba huchukua muda mfupi kukua na kuzaa ukilinganishwa na mnazi unaochukua miaka na dahari. 297 Kua kama miche ya mzeituni m.s. Mzeituni ni mti unaofanana na mzabibu.",
+    "m.s.": "",
+    "m.y.": "Kua haraka na kwa nguvu.mf: Nilipowaona watoto wake walikuwa wadogo sana lakini nasikia siku hizi wamekua kama miche ya mzeituni.",
+    "mf.": ""
+  },
+  {
+    "number": 298,
+    "phrase": "Kuja mithili ya mwizi m.y. Njoo au kwenda bila ya kutarajiwa. Mwizi huja asipotarajiwa.",
+    "m.s.": "",
+    "m.y.": "",
+    "mf.": ""
+  },
+  {
+    "number": 299,
+    "phrase": "Kula kama kiboko",
+    "m.s.": "Kiboko ni mnyama mnene na mkubwa anayeishi katika maji baridi.m.y. Kula sana na kunenepa.",
+    "m.y.": "",
+    "mf.": "Sakina amekula kama kiboko akawa pandikizi la mama,ukimwona huamini!"
+  },
+  {
+    "number": 300,
+    "phrase": "Kula kama mama aliyejifungua m.y. Kula sana kama mwenye njaa nyingi. Watu huamini kuwa mama aliyejifungua hula chakula kingi.",
+    "m.s.": "",
+    "m.y.": "",
+    "mf.": ""
+  },
+  {
+    "number": 301,
+    "phrase": "Kula kama nguruwe",
+    "m.s.": "",
+    "m.y.": "Kula kila wakati na kila kitu hata kama kichafu.Nguruwe hula chochote kikiwemo kinyesi chake!",
+    "mf.": ""
+  },
+  {
+    "number": 302,
+    "phrase": "Kula kama nyati",
+    "m.s.": "",
+    "m.y.": "Kula chakula kingi. Mbogo au nyati ni mnyama anayekula sana.mf: Mama amelalamika kuwa hawezi kuwatunza watoto wa mama wa kambo ambao wanakula kama nyati.",
+    "mf.": ""
+  },
+  {
+    "number": 303,
+    "phrase": "Kula kama panya",
+    "m.s.": "",
+    "m.y.": "Kula kwa kuharibu. Kula kila wakati. Panya ni mnyama mharibifu sana.",
+    "mf.": "Serikali yetu imesema haiwezi kuwalisha wakimbizi wanaokula kama panya."
+  },
+  {
+    "number": 304,
+    "phrase": "Kuwa ekundu kama kaa la moto m.y. Kuwa ekundu sana na ya kutisha. Kaala moto huwa jekundu sana.",
+    "m.s.": "",
+    "m.y.": "",
+    "mf.": "Mtoto ameutandua utando wa jeraha lake na kukifanya kidonda kiwe chekundu kama kaa la moto."
+  },
+  {
+    "number": 305,
+    "phrase": "Kuwa juu kwa juu kama ninga",
+    "m.s.": "Ninga ni ndege mwenye rangi ya kijani na miguu myekundu anayependa kula kuyu.",
+    "m.y.": "Jiona; penda kujionyesha.",
+    "mf.": "Huwezi kushindwa kumtambua John katika ukumbi ule,anapenda kuwa juu kwa juu kama ninga."
+  },
+  {
+    "number": 306,
+    "phrase": "Kuwa kigeugeu kama kinyonga",
+    "m.s.": "Kigeugeu ni mtu asiyekuwa na msimamo maalum;anayesema hili na hili. Pia huitwa kauleni.",
+    "m.y.": "Kutokuwa na msimamo thabiti; kutoweza kuaminika. kuingiliana sana na wanasiasa.",
+    "mf.": ""
+  },
+  {
+    "number": 307,
+    "phrase": "Kuwa kimya kama makaburi m.y. Kuwa kimya kabisa. Tashbihi hii ina fahiwa ya masikitiko au uvunjifu. Sio rahisi kusikia kelele au sauti makaburini.",
+    "m.s.": "",
+    "m.y.": "",
+    "mf.": ""
+  },
+  {
+    "number": 308,
+    "phrase": "Kuwa mzima kama chuma m.y. Kuwa imara kabisa; kutokuwa na tatizo lolote. Kuwa katika afya nzuri.",
+    "m.s.": "",
+    "m.y.": "",
+    "mf.": ""
+  },
+  {
+    "number": 309,
+    "phrase": "Kuwa mzima kama kigongo m.s. Kigongo ni rungu.",
+    "m.s.": "",
+    "m.y.": "Kuwa na bahati nzuri; kuweza kufanikiwa wanaposhindwa wengine. ilihitaji mtu mwenye bahati ya mtende kama Steve kufanikiwa.",
+    "mf.": ""
+  },
+  {
+    "number": 311,
+    "phrase": "Kuwa na bidii kama mchwa m.y. Kuwa na bidii sana; kuweza kufanya makubwa katika mazingira ya shida kama wafanyavyo mchwa wakaishia kujenga kichuguu.",
+    "m.s.": "",
+    "m.y.": "",
+    "mf.": "Tangu zamani Mayahudi wamekuwa watu wenye bidii kama mchwa."
+  },
+  {
+    "number": 312,
+    "phrase": "Kuwa nabidii kama nyuki Maana na matumizi yake ni sawa na ya kuwa na bidii kama mchwa.",
+    "m.s.": "",
+    "m.y.": "",
+    "mf.": ""
+  },
+  {
+    "number": 313,
+    "phrase": "Kuwa na bidii kama siafu Maana na matumizi ya tashbihi hii hufanana na ya iliyotangulia.",
+    "m.s.": "",
+    "m.y.": "",
+    "mf.": ""
+  },
+  {
+    "number": 314,
+    "phrase": "Kuwa na furaha kama bwana (h)arusi",
+    "m.s.": "",
+    "m.y.": "Kuwa na furaha kubwa hasa baada ya ushindi fulani.Bwana arusi huwa na furaha kubwa ya kumpata mke.",
+    "mf.": "Baada ya kutambua kuwa ameteuliwa kwenda masomoni, Cedric alikuwa na furaha kama bwana arusi."
+  },
+  {
+    "number": 315,
+    "phrase": "Kuwa na kitambi kama mjamzito",
+    "m.s.": "Kitambi ni unene wa mwili na tumbo.",
+    "m.y.": "Kuwa na kitambi kinene cha kudharaulika.",
+    "mf.": "Yule mkurugenzi amenenepa na kuwa na kitambi kama mjamzito ilhali wafanyikazi wengine wanaona dhiki tu."
+  },
+  {
+    "number": 316,
+    "phrase": "Kuwa na maneno mengi kama chiriku",
+    "m.s.": "",
+    "m.y.": "Kuwa na tabia ya kuongea sana. Kuwa msemaji sana.",
+    "mf.": "Ingawa nilikutana na mkurugenzi, nilishindwa kupata wasaa wa kumweleza nia yangu kutokana na rafiki yake ambaye ana maneno mmengi kama chiriku na alishikilia kuongea naye kwa zaidi ya saa nzima."
+  },
+  {
+    "number": 317,
+    "phrase": "Kuwa na maneno mengi kama kitabu",
+    "m.s.": "",
+    "m.y.": "Sema sana na hasa kwa kubisha. Maneno yanayopatikana katika kitabu huwa mengi sana. Pia kuwa na maelezo mengi na labda yasiyokuwa muhimu au ya kutatanisha.",
+    "mf.": "Tulijaribu kumweleza Ali asiubadili mfumo wa kutenda kazi lakini wapi ana maneno mengi kama kitabu,hakusikiliza."
+  },
+  {
+    "number": 318,
+    "phrase": "Kuwa na mbawa kama ndege m.y. Kuwa na uwezo mkubwa hasa wa kiuchumi. Huweza kutumiwa pia, kama tashbihi zote, kulinganisha sifa za moja kwa moja. Kwa mfano, katika masimulizi mengi,malaika wanasawiriwa (hasa katika Biblia) kama viumbe wenye mbawa kama ndege.",
+    "m.s.": "",
+    "m.y.": "",
+    "mf.": "Zamani Manase alikuwa maskini kupindukia lakini tangu ateuliwe kuwa mkurugenzi wa shirika la umma amekuwa na mbawa kama ndege."
+  },
+  {
+    "number": 319,
+    "phrase": "Kuwa na miguu mirefu kama korongo m.s. Korongo ni ndege ambaye anafanana na heroe (flamingo), ana shingo ndefu na miguu mirefu. Aghalabu huwa na kishungi fulani kichwani.",
+    "m.s.": "",
+    "m.y.": "",
+    "mf.": ""
+  },
+  {
+    "number": 320,
+    "phrase": "Kuwa na mkono kama nanga m.s. Nanga ni dude kubwa na zito aghalabu jiwe au chuma linalofungwa kwa kamba na kutoswa majini kuzuia chombo cha majini hasa meli kisichukuliwe na maji au kujongejongea.",
+    "m.s.": "",
+    "m.y.": "",
+    "mf.": ""
+  },
+  {
+    "number": 321,
+    "phrase": "Kuwa na nguvu kama fahali m.y. Kuwa na uwezo wa kuchukua au kuvuta kitu kizito. pipa kubwa kama lile kumbe walikuwa na nguvu kama fahali.",
+    "m.s.": "",
+    "m.y.": "",
+    "mf.": ""
+  },
+  {
+    "number": 322,
+    "phrase": "Kuwa na njaa kama majuju wa majuju m.y. Kuwa na njaa kubwa sana. Majuju wa majuju ni viumbe wanaoaminiwa kuwa watakuja ulimwenguni baada ya kuisha kwake na kula kila kitu lakini hawatashiba. Taz,lafi kama majuju wa majuju.",
+    "m.s.": "",
+    "m.y.": "",
+    "mf.": "Mama alipika chakula kingi sana lakini watu walioalikwa walikuwa na njaa kama majuju wa majuju,hawakubakiza hata kidogo."
+  },
+  {
+    "number": 323,
+    "phrase": "Kuwa na pua kali kama mbwa wa polisi",
+    "m.s.": "",
+    "m.y.": "Kuwa na uwezo mkubwa wa kunusa. Mbwa wanaotumiwa na polisi huwa na uwezo mkubwa sana wa kunusa.",
+    "mf.": "Wanafunzi walificha mafuta ya petroli kwenye bweni lao lakini mwalimu mkuu ambaye ana pua kali kama mbwa wa polisi aliweza kugundua yalikofichwa."
+  },
+  {
+    "number": 324,
+    "phrase": "Kuwa na roho mbaya kama mchawi",
+    "m.s.": "",
+    "m.y.": "Mbaya; ahasi; kuwa na wivu mwingi; mchawi humroga mtu kutokana na wivu tu.",
+    "mf.": "Sipendi kumweleza John mipango yangu, ana roho mbaya kama mchawi."
+  },
+  {
+    "number": 325,
+    "phrase": "Kuwa na roho mbaya kama tasa",
+    "m.s.": "",
+    "m.y.": "Kuwa na wivu sana.Watu huamini kuwa mwanamke tasa huwaonea wivu mbaya wenye watoto. Matumizi yake ni karibu sawa na ya iliyotangulia.",
+    "mf.": ""
+  },
+  {
+    "number": 326,
+    "phrase": "Kuwa na roho mbaya kama nyoka",
+    "m.s.": "Uta ni upinde ilhali upote ni ule ugwe au uziwake.Uta haufai kitu bila ya upote.Matumizi ya tashbihi hii ni karibu sawa na zilizotangulia.",
+    "m.y.": "Kuwa pamoja kila wakati, andamana sana. Pendana au patana sana. Pete huwa haiachani na chanda ilikovikwa.",
+    "mf.": "Tangu wafunge ndoa miaka minne iliyopita, Ali na mbuwa pamoia kama chanda na pete. 333 . Kuwa pamoja kama ulimi na mate Maana na matummizi ya tashbihi hii ni sawa nailiyotangulia Kuwa pamoja kama uta na upote"
+  },
+  {
+    "number": 335,
+    "phrase": "Kwepa mtu kama mchawi",
+    "m.s.": "",
+    "m.y.": "Ogopa mtu sana;epuka mtu ambaye anaweza kukuhasiri au kwa sababu fulani tu. Aghalabu wachawi huogopwa na watu wengi kwa kuwa ni adui.",
+    "mf.": "Tangu John aelezwe kuwa namtakia fedha zangu ameanza kunikwepa kama mchawi siku hizi."
+  },
+  {
+    "number": 336,
+    "phrase": "Kwepa mtu kama mkoma(mwenye ukoma)",
+    "m.s.": "Mkoma ni mtu mwenye ugonjwa wa ukoma ambao ni ugonjwa wa mabatomabato na ambao huharibu na kukata viungo vya mwili. Ugonjwa huu huambukizwa.",
+    "m.y.": "Epa au epuka mtu kwa sababu fulani na hasa kwa sababu ya sifa mbaya alizonazo.",
+    "mf.": "Nimrod amekuwa na tabia mbaya ya kuwanajisi wasichana hata marafiki zake wameanza kumkwepa kama mkoma."
+  },
+  {
+    "number": 337,
+    "phrase": "Lafi kama majuju-wa-majuju",
+    "m.s.": "Majuju-wa-majuju ni kiumbe anayesemekana atakuja mwisho wa dunia kula chochote kitakachobaki na baada ya hayo ataondoka bila ya kushiba!",
+    "m.y.": "Mlafi sana; asiyetosheka asilani.",
+    "mf.": "Nimeshangaa kusikia kuwa Alfred amekila chakula kilichokuwepo chote na wala hakushiba, naona amekuwa mlafi kama majuju-wa-majuju."
+  },
+  {
+    "number": 338,
+    "phrase": "Laini kama hariri",
+    "m.s.": "Hariri ni aina ya nyuzi zinazotokana na viwavi vya nondo.",
+    "m.y.": "Laini sana hasa kwa kushika",
+    "mf.": "Farida amenunua rinda zuri jeupe ambalo ni laini kama hariri."
+  },
+  {
+    "number": 339,
+    "phrase": "Laini kama joya (unyoya)",
+    "m.s.": "Sufi ni kitu kama pamba kinachotokana na tunda la msufi na hutumiwa katika magodoro na mito.Matumizi ya tashbihi hii ni sawa na ya laini kama pamba",
+    "m.y.": "Laini sana hasa kwa kushika.",
+    "mf.": "Ngozi ya mwili wake imelainika kama samli ya mbuzi. Laini kama sufi."
+  },
+  {
+    "number": 343,
+    "phrase": "Lala kama gogo",
+    "m.s.": "Mzoga ni mwili wa mnyama aliyekufa.",
+    "m.y.": "Lala kitumbotumbo.Nyoka hutambaa kitumbotumbo.",
+    "mf.": "Maumivu makali yaliyomshika yalimfanya alale kifudifudi kama nyoka. Pia Lala kitumbotumbo kama nyoka."
+  },
+  {
+    "number": 348,
+    "phrase": "Lazima kama ibada",
+    "m.s.": "",
+    "m.y.": "Jambo ambalo mtu hana budi nalo. Ibada kwa Mungu ni kitu cha lazima kwa anayeamini.",
+    "mf.": "Kuwatii wazazi na jamaa wenye makamo sawa nao ni jambo la lazima kama ibada."
+  },
+  {
+    "number": 349,
+    "phrase": "Lea mtoto kama yai",
+    "m.s.": "",
+    "m.y.": "Kumdekeza au kumwengaenga mtoto sana.Yai halina budi kubebwa vizuri, la sivyo litavunjika.",
+    "mf.": "Mzee Mvita amemharibu mtoto wake kwa kumlea kama yai, haambiliki wala hasemezeki."
+  },
+  {
+    "number": 350,
+    "phrase": "Legea kama mboga",
+    "m.s.": "",
+    "m.y.": "Lainika sana; kuzembea au kutepetea.",
+    "mf.": "Kassim hawezi kuifanya kazi nzito kwa kuwa amelegea kama mboga."
+  },
+  {
+    "number": 351,
+    "phrase": "Lia kama mfiwa",
+    "m.s.": "",
+    "m.y.": "Lia sana au kwa muda mrefu; kuwa na simanzi nyingi.",
+    "mf.": "Baada ya kutambua kwamba aliibiwa vitu vyake vyote,jirani yangu alilia kama mfiwa."
+  },
+  {
+    "number": 352,
+    "phrase": "Lia kama mtoto",
+    "m.s.": "",
+    "m.y.": "Lia sana na hasa kwa sauti kubwa na kwa huzuni hasa kutokana na shida fulani.",
+    "mf.": "Alipozabwa kofi na mumewe, Maria alilia kama mtoto mdogo."
+  },
+  {
+    "number": 353,
+    "phrase": "Lingana (sawa) kama kinoo na kisu",
+    "m.s.": "Kinoo ni jiwe linalotumiwa kunolea visu, panga n.k.",
+    "m.y.": "Kuwa sawa kabisa; kuwa pamoja.",
+    "mf.": "Ikiwa umemweleza Kassim zile habari yatosha, yeye na Mvita wanalingana kama kinoo na kisu."
+  },
+  {
+    "number": 354,
+    "phrase": "Lingana kama sahani na kawa Matumizi ya tashbihi hii ni sawa na ya iliyotangulia. Kawa hutumiwa kufunikia sahani. Macho mazuri kama ya paa",
+    "m.s.": "Lulu ni vito vinavyopatikana kutokana na chaza na hutumiwa kama pambo.",
+    "m.y.": "Mbio sana. Risasi huenda haraka mno.Matumizi ya tashbihi hii ni karibu sawa na ya iliyotangulia. 57 Mbio kama umeme Maana na matumizi ya tashbihi hiinikaribusawana zilizotangulia.",
+    "mf.": "Yule mwana riadha mwenye mbio kama paa alishinda nishani ya dhahabu. Mbio kama risasi"
+  },
+  {
+    "number": 361,
+    "phrase": "Mdomo kama kasiba",
+    "m.s.": "Kasiba ni mtutu wa mwanzi wa bunduki.",
+    "m.y.": "Mdomo uliojitokeza na hasa kwa mtu anayependa uchochezi au ufedhuli.",
+    "mf.": "John alitufanya tugombane kwa huo mdomowakekam kasiba huku anajifanya rafiki."
+  },
+  {
+    "number": 362,
+    "phrase": "Meno kama bisi",
+    "m.s.": "Bisi ni punje za mahindi au mtama zilizokaangwa.",
+    "m.y.": "Meno mengi na meupe.",
+    "mf.": "Phoebe ana meno kama bisi ambayo yanavutia sana."
+  },
+  {
+    "number": 363,
+    "phrase": "Meno kama kete",
+    "m.s.": "Kete ni kitu chochote kinachotumiwa kama komwe katika mchezo wa bao.",
+    "m.y.": "Meno mengi.",
+    "mf.": "Hivi mkate mgumu ni nini kwa mtu kama Hassan mwenye meno kama kete."
+  },
+  {
+    "number": 364,
+    "phrase": "Meremeta kama almasi",
+    "m.s.": "Kito ni jiwe la thamani kama vile feruzi, almasi n.k",
+    "m.y.": "Ng'aa kwa haiba; vutia macho.Matumizi ya tashbihi hii ni sawa na ya iliyotangulia.",
+    "mf.": "Mkufu aliouvaa Sakina ulimeremeta kama almasi. Meta kama kito"
+  },
+  {
+    "number": 366,
+    "phrase": "Metameta kama fedha Maana na matumizi yanakaribiana na ya tashbihi zilizotangulia. Miminika kama kumbikumbi walioona mwangaza",
+    "m.s.": "Kumbikumbi ni aina ya mchwa wanaoota mbawa. Pia huitwa ngumbi.",
+    "m.y.": "Tiririka kwa kitu kiowevu kama maji kwa wingi.",
+    "mf.": "Baada ya lile tangi kubomolewa maji yalimiminika ukumbini kama mvua."
+  },
+  {
+    "number": 369,
+    "phrase": "Miminika kama siafu",
+    "m.s.": "",
+    "m.y.": "Enea mahali kwa wingi.",
+    "mf.": "Mashabiki wa mpira walimiminika uwanjani kama siafu."
+  },
+  {
+    "number": 370,
+    "phrase": "Mjinga kama punda",
+    "m.s.": "",
+    "m.y.": "Mpumbavu sana. Watu huamini kuwa punda ni mnyama mjinga.",
+    "mf.": "Hamna haja ya kuharibu wakati ukibishana na Ernest ambaye ni mjinga kama punda."
+  },
+  {
+    "number": 371,
+    "phrase": "Mnafiki kama mfarisayo",
+    "m.s.": "Kunguru ni ndege mweusi mwenye mlia mweupe kifua na ambaye ni mwoga sana.",
+    "m.y.": "Anayetishika kwa urahisi hata kama hamna hatari yu yote.",
+    "mf.": "Ama kweli Jimmi ni mwoga kama kunguru; hivi alijikojolea baada ya paa la nyumba kuangukiwa na kijiti tu!"
+  },
+  {
+    "number": 375,
+    "phrase": "Nata kama gundi Maana na matumizi yake ni sawa na ya ganda kama gundi Nawiri kama mti uliopata mbolea",
+    "m.s.": "Nawiri ni onekana kuwa safi, tononoka; endelea vizuri.",
+    "m.y.": "Stawi sana, endelea uzuri. Mti uliopata mbolea hukua haraka.",
+    "mf.": "Tangu apate kazi katika kampuni ya bia, Ernest amenawiri kama mti uliopata mbolea."
+  },
+  {
+    "number": 377,
+    "phrase": "Nene kama mbuyu",
+    "m.s.": "",
+    "m.y.": "Enye mwili mkubwa.",
+    "mf.": "John Bosco alikwenda Ujerumani akiwa mdogo lakini amerudi mnene kama mbuyu baada ya kuishi huko kwa kipindi cha miaka minane."
+  },
+  {
+    "number": 378,
+    "phrase": "Nene kama pipa Maana na matumizi yake ni sawa na ya nene kama mbuyu. Nene kama tangi Maana na matumizi ni sawa na ya tashbihi zilizotangulia.",
+    "m.s.": "",
+    "m.y.": "",
+    "mf.": ""
+  },
+  {
+    "number": 380,
+    "phrase": "Nenepa kama kiboko",
+    "m.s.": "Ruba ni mdudu anayefanana na nyungwinyungwi au mnyoo afyonzaye damu na anayekaa mahali penye majimaji.Maana na matumizi ni sawa na ya ng'ang'ania kama kupe.",
+    "m.y.": "Shika kwa nguvu au shikilia kitu hasa kinachokufaidi kama afanyavyo kupe.",
+    "mf.": "Yule mwanamke amemng'ang'ania yule mfanyibiashara kama kupe kwa kuwa anamlipia mahitaji yake yote. Ng'ang'ania kama ruba"
+  },
+  {
+    "number": 385,
+    "phrase": "Ng'ara kama dhahabu",
+    "m.s.": "",
+    "m.y.": "Toa nuru kali kama vile theluji.Toa mng'aro kwa sababu ya weupe.",
+    "mf.": "1.Ile nyumba iliyoezekwa kwa mabati iling'ara kama theluji. 2. Shati alilovalia liling’ara kama theluji."
+  },
+  {
+    "number": 390,
+    "phrase": "Nguruma kama radi",
+    "m.s.": "Jaa ni sehemu ya kutupa taka; huitwa pia jalala.",
+    "m.y.": "Toa harufu mmbaya sana.",
+    "mf.": "Juma ameshindwa kuosha nyumba yake siku hizi,inanuka kama jaa."
+  },
+  {
+    "number": 397,
+    "phrase": "Nuka kama kidonda ndugu m.s. Kidonda ndugu ni kidonda kisichopona.",
+    "m.s.": "",
+    "m.y.": "Toa harufu mbaya.mf: Yule kibarua hazikoshi nguo zake ndio maana ananuka kama kidonda ndugu.",
+    "mf.": ""
+  },
+  {
+    "number": 398,
+    "phrase": "Nuka kama kisonzo",
+    "m.s.": "Mzoga ni mwili wa mnyama aliyekufa.",
+    "m.y.": "Toa harufu ya kukirihi. Mzoga wa paka una harufu mbaya sana.",
+    "mf.": "Watu wamemwaga vitu nyuma ya nyumba yetu hadi pananuka kama mzoga wa paka."
+  },
+  {
+    "number": 400,
+    "phrase": "Nukia kama Ruhani",
+    "m.s.": "Ruhani ni aina mojawapo ya majini.",
+    "m.y.": "Endea polepole kwa nia ya kushtukiza kama afanyavyo paka aliyemwona panya",
+    "mf.": "Baba alipowaona watoto wakitunda matunda aliyowakataza aliwanyemelea kama paka akawashika."
+  },
+  {
+    "number": 403,
+    "phrase": "Nyofu kama kondoo",
+    "m.s.": "",
+    "m.y.": "Enye masikitiko na usununu mfano wa mtu aliyefiwa.",
+    "mf.": "Tangu Miriam aanguke mtihani amekuwa mnyonge kama aliyefiwa."
+  },
+  {
+    "number": 405,
+    "phrase": "Nyonge kama kondoo",
+    "m.s.": "",
+    "m.y.": "Siyeweza kujitetea, dhaifu. Kondoo ni mnyama mnyonge labda kutokana na upole wake.",
+    "mf.": "Makosa yote yanayofanywa kazini anasukumiziwa Makori anayeonekana mnyonge kama kondoo."
+  },
+  {
+    "number": 406,
+    "phrase": "Nyonge kama mgonjwa wa safura",
+    "m.s.": "Mithili ni mfano.",
+    "m.y.": "Nywele zilizosokotana na zilizo ngumu kuchana na ambazo zimekaa kama kundi la nzi.",
+    "mf.": "Yule mwanafunzi alilazimishwa na mwalimukuzinyoa nywele zake zilizokuwa kama kundi la nzi."
+  },
+  {
+    "number": 413,
+    "phrase": "Ogelea kama samaki",
+    "m.s.": "",
+    "m.y.": "Ogelea kwa ustadi na wepesi.",
+    "mf.": "Yule kijana mdogo aliwashangaza watuwakatiwa mashindano kwa uwezo wake wa kuogeleakamasamah na kuwashinda wapinzani wake."
+  },
+  {
+    "number": 414,
+    "phrase": "Ogopa kama Mungu",
+    "m.s.": "Kijakazi ni mtumwa wa kike. Pia mjakazi.Maana na matumizi ya tashbihi hii ni sawa na ya nyanyasa kama mbwa.",
+    "m.y.": "Ogopa mtu kwa kuwa anaweza kukudhuru mfano wa mwenda wazimu.",
+    "mf.": "Hamna mtu anayeweza kumchezea yule kijana aliyetokajela majuzi, watu wanamwogopa kama kichaa. Pia:Ogopa mtu kama mwendawazimu. Onewa kama mtumwa (kijakazi)"
+  },
+  {
+    "number": 418,
+    "phrase": "Onyesha (jionyesha) kama watu wa kule",
+    "m.s.": "Nyegere ni mnyama mdogo anayekula asalimwenye ushuzi unaowalevya nyuki.",
+    "m.y.": "Penda asali sana.Penda starehe mno.",
+    "mf.": "Usishangae kuwa ameila asali yoteileanaipenda kama nyegere."
+  },
+  {
+    "number": 426,
+    "phrase": "Penda kama kito",
+    "m.s.": "",
+    "m.y.": "Kupendana kiasi cha kutoachana.",
+    "mf.": "Kama umemwona Alfred haikosi mkewe Norah yukokaribu, wanapendana kama ambari na zinduna,ukimwona mmoja mwenzake hakosi. Pendana kama chanda na pete Matumizi ya tashbihi hii ni karibu sawa na ya iliyotangulia."
+  },
+  {
+    "number": 433,
+    "phrase": "Pendana kama kumbikumbi",
+    "m.s.": "",
+    "m.y.": "Pendana sana; kutoachana. Kumbikumbi huwa hawaachani.",
+    "mf.": "Jimmi na mkewe wanapendana kama kumbikumbi kila mmoja haachi kumsifu mwenzake."
+  },
+  {
+    "number": 434,
+    "phrase": "Pendana kama mwezi na nyota Angalia, pendana kama ambari na zinduna. Pendana kama (ma)pacha",
+    "m.s.": "Bumburusha ni amsha kwa kitisho au ghafla.",
+    "m.y.": "Pesa nyingi sana.mf: Yule mkurugenzi wa kampuni ana pesa kama mchanga;amenunua majumba manne mjini hivi majuzi tu.",
+    "mf.": "Manyara hajapona kabisa; bado anapepesuka kama mlevi akitembea. Pesa kama mchanga"
+  },
+  {
+    "number": 442,
+    "phrase": "Piga kama nyundo",
+    "m.s.": "",
+    "m.y.": "Piga sana. Piga kwa muda mrefu bila ya huruma.",
+    "mf.": "Yule mwanamke ameshtakiwa kwa kumpiga mlezi wake wa watoto tena na tena kama apigaye nyoka mpaka akakosa uwezo wake wa kusikia."
+  },
+  {
+    "number": 444,
+    "phrase": "Pigwa bure bilashi kama mwana wa kambo",
+    "m.s.": "",
+    "m.y.": "Pigwa pasi na sababu mfano wa mwana wa kambo;onewa bure.",
+    "mf.": "Mama Siti amempiga mpwa wake bure bilashi kama mwana wa kambo."
+  },
+  {
+    "number": 445,
+    "phrase": "Pigwa ovyo kama mbwa koko",
+    "m.s.": "",
+    "m.y.": "Teswa kwa kudharau, teswa sana na hasa wakati mwingine bila ya sababu maalum.",
+    "mf.": "Baada ya mjomba kuchochewa na mkewe alianza kumpiga yaya ovyo kama mbwa koko."
+  },
+  {
+    "number": 446,
+    "phrase": "Pindika kama hinzirani unaofanana na mwanzi lakini hauna uwazi ndani.",
+    "m.s.": "Mvuke au muye ni moshi unaotoka katika maji au vitu vingine vya majimaji vilivyopata joto. Maana na matumizi ya tashbihi hii ni sawa na ya potea mithili ya moshi.",
+    "m.y.": "Toweka kabisa; kutoonekana tena; tawanyika kabisa.",
+    "mf.": "Mzee Maksuudi alikuwa na mali mengi lakini baada ya kukumbwa na kashifa ile ya mali yamepotea mithili ya moshi. Potea mithili ya mvuke"
+  },
+  {
+    "number": 455,
+    "phrase": "Pua ya (kama) upanga",
+    "m.s.": "",
+    "m.y.": "Jaa kwa wingi. Majani huangukaanguka kwa wingi kutoka mitini wakati wa kipupwe au hata kiangazi.",
+    "mf.": "Tangu Ali apandishwe madaraka kazini, barua za pongezi zimempukutikia kama majani."
+  },
+  {
+    "number": 457,
+    "phrase": "Pumbavu kama dubu Maana na matumizi ni sawa na ya jinga kama dubu. Pwaya kama aliyetoka ugonjwani",
+    "m.s.": "Pwaya ni legalega.",
+    "m.y.": "Rahisi sana mfano wa kuhesabu moja, mbili, tatu.",
+    "mf.": "Ile kazi aliyopewa ilikuwa rahisi kama moja mbili tatu,haikumchukua muda kuimaliza."
+  },
+  {
+    "number": 460,
+    "phrase": "Rahisi kama mtu kufyatua vidole vyake viwili",
+    "m.s.": "",
+    "m.y.": "Rahisi kufanya. Kufyatua vidole ni kuvialisha kuvifanya vikatoa sauti.",
+    "mf.": "Kwa fundi waria kama Suleiman, kuiunda tena ile meza ni rahisi kama mtu kufyatua vidole vyake viwili."
+  },
+  {
+    "number": 461,
+    "phrase": "Rarua kama karatasi",
+    "m.s.": "",
+    "m.y.": "Chanachana kabisa; kurarua kila kitu.",
+    "mf.": "Yule mwanamke alimpiga jirani na kumrarulia nguo alizovaa kama karatasi, akambakiza uchi."
+  },
+  {
+    "number": 462,
+    "phrase": "Refu kama mlingoti/mwongoti",
+    "m.s.": "Komanzi ni shetani anayeaminiwa kuwa mrefu sana.Maana na matumizi ya tashbihi hii ni sawa na refu kama jini.",
+    "m.y.": "Refu sana, mfano wa mlingoti.",
+    "mf.": "Yule mwanamichezo aliyeshinda mbio zile ni mrefu kama mlingoti. Refu kama komanzi"
+  },
+  {
+    "number": 464,
+    "phrase": "Refu kama jini",
+    "m.s.": "Ngoloko ni jini.Maana na matumizi ya tashbihi hii ni sawa na ya refu kama jini.",
+    "m.y.": "Refu sana. Aghalabu mnazi huwa mrefu.",
+    "mf.": "Majengo yaliyojengwa kijijini kwao ni marefu kama minazi; huwezi kuamini yapo mahali kama pale. Refu kama ngoloko"
+  },
+  {
+    "number": 467,
+    "phrase": "Refu kama shetani",
+    "m.s.": "",
+    "m.y.": "Refu sana.Tashbihi hii ina maana ya kuchukia au dharau.",
+    "mf.": "Kassima anaringa kwa kuamini kuwa ana sura nzuri lakini simpendi kwa sababu ni mrefu kama shetani."
+  },
+  {
+    "number": 468,
+    "phrase": "Refu kama twiga",
+    "m.s.": "Unju ni mtu aliyedhaniwa kuwa alikuwa mrefu kuliko watu wote.",
+    "m.y.": "Refu sana.",
+    "mf.": "Aladdin alitokezewa na jitu refu kama unju katika kisa cha 'Aladdin na Taa ya Ajabu.'"
+  },
+  {
+    "number": 470,
+    "phrase": "Rembo kama paa",
+    "m.s.": "",
+    "m.y.": "Enye kuvutia macho.",
+    "mf.": "Maria alivalia mavazi mazuri akaonekana mrembo kama paa."
+  },
+  {
+    "number": 471,
+    "phrase": "Rembo kama tausi",
+    "m.s.": "Tausi ni ndege mkubwa mwenye mkia unaojichanua na kujifunga. Manyoya yake huvutia sana.",
+    "m.y.": "Vutia sana, kuwa rembo kupindukia.",
+    "mf.": ""
+  },
+  {
+    "number": 472,
+    "phrase": "Ringa kama tausi",
+    "m.s.": "",
+    "m.y.": "Ringa sana.Tausi hutembea kwa kujishasha.",
+    "mf.": "Tangu aolewe na mtoto wa waziri, Jane anaringa kama tausi."
+  },
+  {
+    "number": 73,
+    "phrase": "Ruka kama mkizi",
+    "m.s.": "Nge ni ni mdudu mdodo mwenye miguu minane na mwenye sumu kwenye mkia wake anaoutumia kushambulia adui zake.",
+    "m.y.": "Rusha mkono kwa kuhisi maumivu; kuvuta mkono haraka kwa kuogopa.aliuingiza kidogo kisha akaurusha kama aliyeumwa na nge.",
+    "mf.": "Nilimkopesha Ali shilingi elfu mbili lakini kila nikitaka anilipe ananirusha huku na kule kama tiara. Rusha mkono kama aliyeumwa na nge"
+  },
+  {
+    "number": 482,
+    "phrase": "Safi kama Msahafu",
+    "m.s.": "Zuwaridi ni aina ya ndege mwenye sauti inayovutia.m.y. Kuwa na sauti tamu na ya kupendeza masikio.",
+    "m.y.": "Sema maneno mengi yasiyo na maana. Pana imani kuwa mtu aliyekunywa maji ya chooni anasema sana.",
+    "mf.": "Anguka alituchelewesha kwa porojo zake, anavyosema kama aliyekunywa maji ya chooni."
+  },
+  {
+    "number": 485,
+    "phrase": "Sema kama chiriku",
+    "m.s.": "Chiriku ni ndege mdogo mwenye kelele sana.",
+    "m.y.": "Kuwa na maneno mengi au yasiyokwisha.",
+    "mf.": "Tulipofika kwao tulijisahau kutokana na mjomba wakeanayesema kama chiriku. Tulipogutuka jua lilikuwa limekuchwa tayari."
+  },
+  {
+    "number": 486,
+    "phrase": "Sema kama kiwete",
+    "m.s.": "Kurumbizi ni ndege mdogo mwenye ushungi na mkia mrefu anayefanya kelele nyingi saa za alfajiri.",
+    "m.y.": "Ongea bila ya kuchoka; sema mambo mengi.",
+    "mf.": "Yule mwanasiasa alipoanza kuongea alisema kamakurumbizi hadi subira ikawaishia watu.Taz. sema kama chiriku."
+  },
+  {
+    "number": 488,
+    "phrase": "Sema kama mashine Maana yake ni sawa na tashbihi zilizotangulia hapo juu. Hata hivyo tashbihi hii huweza kutumiwa kwa maana ya ziada kuelezea ule wepesi wa kuongea au kusema.",
+    "m.s.": "",
+    "m.y.": "",
+    "mf.": ""
+  },
+  {
+    "number": 489,
+    "phrase": "Sema kama radi",
+    "m.s.": "",
+    "m.y.": "Sema sana; ongea kwa sauti ya juu na labda ya kuamrisha.",
+    "mf.": "Jirani yangu alisema kama radi baada ya ng’ombe wangu kulivamia shamba lake."
+  },
+  {
+    "number": 490,
+    "phrase": "Sema kama redio",
+    "m.s.": "",
+    "m.y.": "Sema sana na hasa maneno yasiyofaa.",
+    "mf.": "Tulikawizwa mjini na mjomba wake anayesema kama redio."
+  },
+  {
+    "number": 491,
+    "phrase": "Sema kama upatu",
+    "m.s.": "Upatu ni chombo fulani kinachopigwa wakati wa ngoma na hupigwa mara nyingi sana. Angalia sema kama kurumbizi. Sema ovyo kama kichaa/mwendawazimu",
+    "m.y.": "Anza na kuimarika. Mvua ya masika huwa nyingi.",
+    "mf.": "Baada ya ile kazi kuahirishwa kwa miaka kadha sasa imeanza, imeshika kama mvua ya masika."
+  },
+  {
+    "number": 496,
+    "phrase": "Shika kama nta",
+    "m.s.": "Nta ni kitu kigumu mfano wa gundi kinachotokana na masega ya nyuki.Matumizi ya tashbhi hii ni sawa na ya ganda kama gundi.",
+    "m.y.": "",
+    "mf.": ""
+  },
+  {
+    "number": 497,
+    "phrase": "Shikilia kama lulu",
+    "m.s.": "Mbuni ni ndege mkubwa sana wa mbugani ambaye haruki lakini ana mbio sana.",
+    "m.y.": "Shingo ndefu nzuri. Mbuni ana shingo ndefu na ya kupendeza.",
+    "mf.": "Richard alipumbazwa na yule mwanamke wa Kisomali aliyekuwa na shingo ya mbuni."
+  },
+  {
+    "number": 500,
+    "phrase": "Shingo nene kama mbuyu m.y.Shingo kubwa sana.",
+    "m.s.": "Mwanzi ni mti unaofanana na muwa ambao una uwazi ndani.",
+    "m.y.": "Shingo ndefu na ya kupendeza.Matumizi ya tashbihi hii ni sawa na ya zilizotangulia.",
+    "mf.": "Susan ametutumka na kuwa msichana wa kuvutia mwenye shingo kama mwanzi. Shingo ya paa/ Shingo kama ya paa"
+  },
+  {
+    "number": 503,
+    "phrase": "Shonana kama ushanga",
+    "m.s.": "Ushanga ni mtungo unaotengenezwa kwa vidude vidogo vya kioo unaovaliwa shingoni.",
+    "m.y.": "Jasiri sana; asiyeogopa.Simba ni mnyama mkali na jasiri.",
+    "mf.": "Yule mwanasiasa alipambana kishujaa kama simba ha akawashinda wapinzani wake wote."
+  },
+  {
+    "number": 508,
+    "phrase": "Shupavu kama kihongwe (kiongwe)",
+    "m.s.": "",
+    "m.y.": "Kuwa kaidi sana; kihongwe ni punda mkaidi.",
+    "mf.": "Nimejaribu kumshauri Jimmi asiandamane na wale watoto wahuni lakini alivyo shupavu kama kihongwe hakunisikiliza."
+  },
+  {
+    "number": 509,
+    "phrase": "Shusha pumzi kama aliyetua mzigo",
+    "m.s.": "",
+    "m.y.": "Shusha pumzi kwa kushindwa au kulemewa na jambo fulani. Mtu aliyebeba mzigo hushusha pumzi baada ya kuutua kwa kuwa huwa amejiondolea uzito.",
+    "mf.": "Baada ya kuelezewa yaliyotokea kwa kirefu alishusha pumzi kama aliyeutua mzigo kwa kuvunjikiwa."
+  },
+  {
+    "number": 510,
+    "phrase": "Simama imara kama mwamba",
+    "m.s.": "",
+    "m.y.": "Kuwa wima;kutotingishika.",
+    "mf.": "Alisimama imara kama mwamba wakati wa ile kashifa."
+  },
+  {
+    "number": 511,
+    "phrase": "Simama wima kama askari",
+    "m.s.": "",
+    "m.y.": "Kuwa wima, yaani sawasawa bila kupinda mfano wa askari. Kushikilia jambo fulani bila kubadilika.",
+    "mf.": "Wanafunzi walisimama wima kama askari wakati walipokuwa wakikaguliwa na mwalimu mkuu."
+  },
+  {
+    "number": 512,
+    "phrase": "Simama wima kama kapigiliwa msumari",
+    "m.s.": "Stahimilivu ni enye subira au uvumilivu.",
+    "m.y.": "Endelea vizuri; stawi sana.Aghalabu mgomba huist haraka sana.",
+    "mf.": "Andrea ameianzisha biashara yake hivi majuzi tu laki imestawi kama mgomba."
+  },
+  {
+    "number": 520,
+    "phrase": "Sukasuka kama maziwa",
+    "m.s.": "",
+    "m.y.": "Tikisa tikisa mbele na nyuma au kokote. Maziwa yaliyotiwa kwenye kibuyu husukwasukwa kila upande",
+    "mf.": "Baada ya kukasirishwa na maneno aliyoambiwa, Bakari alimshika Omari na kumsukasuka kama maziwa."
+  },
+  {
+    "number": 521,
+    "phrase": "Swaga kama ng'ombe",
+    "m.s.": "",
+    "m.y.": "Ongoza vibaya; sumbua sana; tendea kama wanyama. Wafugaji huwaongoza ng’ombe kwa kuwapeleka mbio mbio.",
+    "mf.": "Yule kiongozi dikteta amewaswaga raia wa nchi yake kama ng'ombe kwa miaka tisa sasa."
+  },
+  {
+    "number": 522,
+    "phrase": "Swaga kama kondoo Maana na matumizi yake ni sawa na ya swaga kama ng'ombeTofauti ya pekee hapa ni kuwa hapa mkazo uko kwenye wanaofanyiwa kitendo chenyewe.",
+    "m.s.": "",
+    "m.y.": "",
+    "mf.": ""
+  },
+  {
+    "number": 523,
+    "phrase": "Tafuta kama almasi",
+    "m.s.": "Ugoni ni uzinzi au uhusiano unaohusisha mke au mumewa mtu na mtu mwingine wa nje. Tahayari ni kuona aibu au kupatwa na fedheha.",
+    "m.y.": "Ona aibu sana hasa baada ya kutenda jambo la fedheha. Mtu aliyefumaniwa ugoni au wizi huona haya sana.",
+    "mf.": "Alipopatikana akichimba shimo karibu na nyumba yetu,jirani alitahayari kama mtu aliyefumaniwa ugoni."
+  },
+  {
+    "number": 525,
+    "phrase": "Tamaa kama jogoo",
+    "m.s.": "",
+    "m.y.": "Uchu au shauku nyingi hasa ya mwanamke. Jogoo ana uchu mwingi wa kuku wa kike au makoo.",
+    "mf.": "Ama kweli Zephaniah ana tamaa kama jogoo, kila msichana amwonaye lazima amtake."
+  },
+  {
+    "number": 526,
+    "phrase": "Tamaa kama papa",
+    "m.s.": "Papa ni samaki mkubwa wa baharini anayekula wengine, huweza kula watu pia.",
+    "m.y.": "Tamaa ya kutaka vitu vingi, ya kutaka kuhodhi au kukiritimba vitu. Tashbihi hii ina sifa hasi,kutaka upate wewe tu.",
+    "mf.": "Yule mfanyibiashara ana tamaa kama papa, hataki mtu mwingine aendelee."
+  },
+  {
+    "number": 527,
+    "phrase": "Tambaa kama mboga",
+    "m.s.": "Tambaa ni enda kwa kujiburuza kama nyoka.",
+    "m.y.": "Enea sehemu kubwa mfano wa mboga ambao ni mmea unaotambaa sana.",
+    "mf.": "Zile nyasi zimetambaa tarafani kama mboga na kuishia kuuziba mlango wa nyumba ile ambayo haijatumiwa kwa muda mrefu."
+  },
+  {
+    "number": 528,
+    "phrase": "Tambaa kama nyoka",
+    "m.s.": "",
+    "m.y.": "Tembea kitumbotumbo mfano wa nyoka kwa sababu fulani.",
+    "mf.": "Wale makachero walipokaribia walikokuwa wale majambazi, walianza kutambaa kama nyoka."
+  },
+  {
+    "number": 529,
+    "phrase": "Tamu kama asali",
+    "m.s.": "",
+    "m.y.": "Tamu sana, zuri sana. Hamna asiyejua jinsi asali ilivyo tamu.",
+    "mf.": "Tangu apande cheo kazini maisha yake yamekuwa matamu kama asali."
+  },
+  {
+    "number": 530,
+    "phrase": "Tamu kama halua (ya badamu au lozi)",
+    "m.s.": "Halua ni chakula kitamu na laini kinachotayarishwa kwa unga, uwanga, samli na sukari.Lozi ni kiini cha kokwa kinachopatikana katika tunda la mlozi.",
+    "m.y.": "Tamu sana (hasa chakula).",
+    "mf.": "Tulipomtembelea Zubeda mjini Mombasa alituandalia chakula kilichokuwa kitamu kama halua"
+  },
+  {
+    "number": 531,
+    "phrase": "Tangaa kama moto wa kiangazi",
+    "m.s.": "Tangaa ni enea au tajika kila mahali.",
+    "m.y.": "Enea haraka sana. Moto wa kiangaziunaeneaharak sana.",
+    "mf.": "Habari za kifo cha chifu zilitangaa tarafani kama mot wa kiangazi."
+  },
+  {
+    "number": 532,
+    "phrase": "Tangatanga kama kuku anayetaka kutaga",
+    "m.s.": "Dengua ni kukata kichwa cha kuku.",
+    "m.y.": "Hangaika kutokana na hali fulani mbaya. Kuku aliyekatwa kichwa na kuachiliwa hujirusha huku na kule. Pia tapatapa kama kuku aliyechinjwa.",
+    "mf.": "Yule mgonjwa wa pumu alitapatapa kama kuku aliyedenguliwa kichwa kisha akaaga dunia."
+  },
+  {
+    "number": 534,
+    "phrase": "Tapatapa kama mfa maji",
+    "m.s.": "Tapatapa ni enda huku na huku kwa kufikwa na jambo;hangaika.",
+    "m.y.": "Hangaika kutokana na hali fulani mbaya.",
+    "mf.": "Baada ya wezi kuiiba rasilimali yake yote, Ali alibakia kutapatapa kama mfa maji."
+  },
+  {
+    "number": 535,
+    "phrase": "Tapika maneno kama kasuku",
+    "m.s.": "",
+    "m.y.": "Sema maneno mengi na hasa usiyowazia au mabaya.",
+    "mf.": "Jirani yangu alikuja kunitapikia maneno kama kasuku baada ya mtoto wangu kumpiga mwanawe."
+  },
+  {
+    "number": 536,
+    "phrase": "Tawanyika kama askari waliomwona adui",
+    "m.s.": "",
+    "m.y.": "Kimbia kwa kuona hatari.",
+    "mf.": "Wale majambazi waliokuwa wamejificha walitawanyika kama panya waliomwona paka walipoliona gari la polisi likisogea walipokuwa."
+  },
+  {
+    "number": 538,
+    "phrase": "Tegemeana kama pua na mdomo",
+    "m.s.": "",
+    "m.y.": "Tegemea sana. Pua hunusa harufu ya chochote kxiingiacho kinywani.",
+    "mf.": "Wale wanakijiji wanategemeana kama pua na mdomo."
+  },
+  {
+    "number": 539,
+    "phrase": "Tema kama kohozi",
+    "m.s.": "Kohozi ni uchafu mzito unaotokea kifuani na unaopitia kinywani mtu anapokohoa. Pia kohoo.",
+    "m.y.": "Tupilia mbali; puuza kwa kukosa thamani. Baada ya kujisua makohozi mtu huyatema chini.",
+    "mf.": "Alipojaribu kumwita Maria alimtema chini kama kohozi."
+  },
+  {
+    "number": 540,
+    "phrase": "Tema kama masuo",
+    "m.s.": "Masuo ni maji yanayotemwa baada ya kuusukutua mdomo.",
+    "m.y.": "Puuza kama kitu kisichokuwa na maana;tupilia mbali.",
+    "mf.": "Ali alikuwa mpenzi wa Miriam kwa zaidi ya miaka minne hadi alipomtema kama masuo."
+  },
+  {
+    "number": 541,
+    "phrase": "Tembea polepole kama kinyonga",
+    "m.s.": "Jeteta ni mnyama wa pwani ambaye ana mwili laini sana. Tepwereka ni kulainika.",
+    "m.y.": "Kuwa laini hasa kwa kushika.",
+    "mf.": "Mwili wa Esther umetepwereka kama jeteta;ukimwangalia vizuri utadhani ni msichana mdogo kumbe ni mwanamke mzima tu."
+  },
+  {
+    "number": 545,
+    "phrase": "Tesa mtu kama mnyama",
+    "m.s.": "",
+    "m.y.": "Tesa sana; dhalilisha mtu sana; sumbua mtu kupita kiasi.",
+    "mf.": "Yule mwajiri anawatesa wafanyikazi wake kama wanyama licha ya kuwa wameifanya kampuni yake kusifika sana."
+  },
+  {
+    "number": 546,
+    "phrase": "Tetemeka kama mgonjwa wa homa (ya mbu/malaria)",
+    "m.s.": "Kifafa ni ugonjwa unaompata mtu na kumfanya apoteze fahamu na kuanguka huku akirusharusha mikono na miguu.",
+    "m.y.": "Tetemeka sana. Mtu mwenye homa hutetemeka mwili sana mfano wa aliyenyeshewa.",
+    "mf.": "Alipoingia kwenye chumba cha mtihani Alfred alikuwa akitetemeka kama mgonjwa wa homa. Tetemeka kama mgonjwa wa kifafa"
+  },
+  {
+    "number": 548,
+    "phrase": "Tetemeka kama kuti la mnazi",
+    "m.s.": "Bomba ni chuma chenye uwazi kama mwanzi kinachopitisha maji. Mfereji ni mchirizi mkubwa wa maji ardhini. Neno hili hutumiwa pia kwa maana sawa na bomba.",
+    "m.y.": "Gumu kueleweka. Maisha ya roho hayaeleweki hasa mwisho wake na hata uhalisi wake.",
+    "mf.": "Yule bwana mambo yake hayafahamiki ni kama maisha ya roho."
+  },
+  {
+    "number": 555,
+    "phrase": "Toka haraka kama askari walioshambuliwa",
+    "m.s.": "",
+    "m.y.": "Toka mbio kwa kuogopa.mf: Wale wakaazi walipoona moshi unaanza kuenea walitoka nyumbani haraka kama askari walioshambuliwa.",
+    "mf.": ""
+  },
+  {
+    "number": 556,
+    "phrase": "Toweka kama mvuke mbele ya jua",
+    "m.s.": "Mvuke ni moshi unaotoka kwenye maji yanayopata jotr, au vitu vingine vya majimaji. Pia huitwa muye",
+    "m.y.": "Potea kabisa na kutoonekana tena. Mvuke huyeyuka haraka penye jua.",
+    "mf.": "Tulipouwasha ule moto, baridi tuliyokuwa nayo ilitoweka kama mvuke mbele ya jua."
+  },
+  {
+    "number": 557,
+    "phrase": "Toweka kama umande wa asubuhi",
+    "m.s.": "Umande ni unyevu aghalabu wa asubuhi unaopatikana juu ya majani au mimea.",
+    "m.y.": "Potea baada ya muda mfupi mfano wa unyevu wa asubuhi unaotanda juu ya majani na ambao hutoweka haraka.",
+    "mf.": "John alikuwa akituringia juzi baada ya kupokea fedha ambazo zimetoweka kama umande wa asubuhi, sasa amebakia maskini wa sina sinani."
+  },
+  {
+    "number": 558,
+    "phrase": "Tukutu kama mwana haramu.",
+    "m.s.": "Tukutu ni kivumishi kinachotumiwa kuelezea ukaidi au utundu. Mtu mtukutu ni mtundu au mkaidi.",
+    "m.y.": "Kutotulia mahali pamoja. Kuna imani kuwa mwana haramu huwa mtukutu sana.",
+    "mf.": "Hivi unamwachia kazi yule; ataifanya lini na alivyo mtukutu kama mwana haramu."
+  },
+  {
+    "number": 559,
+    "phrase": "Tulia kama aliye usingizini",
+    "m.s.": "",
+    "m.y.": "Mtu aliyelala huwa ametulia sana bila ya kwenda huku na huku.",
+    "mf.": "Nilimkuta amejilaza ugani akisoma kitabu cha hadithi ametulia kama aliye usingizini."
+  },
+  {
+    "number": 560,
+    "phrase": "Tulia tuli kama maji mtungini Maana na matumizi yake ni sawa na ya poa kama maji ya mtungi.",
+    "m.s.": "",
+    "m.y.": "",
+    "mf.": ""
+  },
+  {
+    "number": 561,
+    "phrase": "Tumbatumba kama nyani",
+    "m.s.": "Gungu ni aina ya ngoma. Upatu ni chombo cha madini",
+    "m.y.": "Ua kikatili; ua pasi na kufikiria na labda hata kwa wingi.",
+    "mf.": "Jeshi la Sudan liliwaua wapiganiaji haki wa upande wa kusini kama nzi. Ulimi kama upatu wa gungu"
+  },
+  {
+    "number": 583,
+    "phrase": "Vuma kama upepo wa kaskazi",
+    "m.s.": "Kaskazi ni kaskazini. Maana na matumizi ya tashbihihiinisawa na ya zilizotangulia.",
+    "m.y.": "",
+    "mf.": ""
+  },
+  {
+    "number": 584,
+    "phrase": "Waka kama moto",
+    "m.s.": "",
+    "m.y.": "Enea kwa nguvu; endelea kwa kishindo.",
+    "mf.": "Kampeni za uchaguzi wa mwaka huu zimeanza huu kama moto."
+  },
+  {
+    "number": 585,
+    "phrase": "Waka kama nyota",
+    "m.s.": "",
+    "m.y.": "Eneza nuru nyingi; waka kwa wingi; vutia.",
+    "mf.": "Macho ya Asteria yanawaka kama nyota."
+  },
+  {
+    "number": 586,
+    "phrase": "Waka kama roromo la maramba",
+    "m.s.": "Roromo ni moto unaowaka kwa wingi. Maramba ni taka zinazotokana na mbao kupigwa randa.",
+    "m.y.": "Kuwa na nguvu kwa muda mfupi sana. Moto wa maramba hufifia haraka.",
+    "mf.": "Mwalimu mkuualiwaka kama roromo la maramba kwa siku kadha kisha akanywea na kuwa mpole ajabu."
+  },
+  {
+    "number": 587,
+    "phrase": "Waka kama taa ya umeme",
+    "m.s.": "",
+    "m.y.": "Toa nuru kubwa sana.",
+    "mf.": "Zile karabai ziliwaka kama taa ya umeme."
+  },
+  {
+    "number": 588,
+    "phrase": "Wanda kama kiboko/bondia",
+    "m.s.": "Wanda ni kunenepa au kunona. Maana na matumizi yake ni sawa na ya nenepa kama kiboko.",
+    "m.y.": "",
+    "mf.": ""
+  },
+  {
+    "number": 589,
+    "phrase": "Wanda kama 'nguruwe Angalia nenepa kama nguruwe.",
+    "m.s.": "",
+    "m.y.": "",
+    "mf.": ""
+  },
+  {
+    "number": 590,
+    "phrase": "Washa kama pilipili",
+    "m.s.": "Dagaa ni samaki wadogo ambao huzaana sana.",
+    "m.y.": "Zaa kwa wingi jinsi wafanyavyo panya.Tashbihi hii kama ilivyo iliyotangulia huweza kuwa na maana ya dharau.",
+    "mf.": "Watu wanahimizwa wapange uzazi nanyi huku mnazaa kama panya"
+  },
+  {
+    "number": 598,
+    "phrase": "Zimia kama mtu aliyepungukiwa na damu",
+    "m.s.": "Nanga ni kitu kizito sana, aghalabu jiwe au chuma ambacho hutoswa maji ni baada ya kufungwa kwa kamba kizuie chombo kisitawaliwe na maji wala kisijongeejongee.",
+    "m.y.": "Kuwa zito sana.",
+    "mf.": "Tulishindwa kulinyanyua sanduku la fundi lililokuwa zito kama nanga."
+  },
+  {
+    "number": 600,
+    "phrase": "Zizima kama barafu",
+    "m.s.": "",
+    "m.y.": "Shika baridi sana; ona baridi au hata taabika kutokana na hali fulani.",
+    "mf.": "Baada ya kusimama nje kwa muda mrefu tulizizima miili kama barafu."
+  },
+  {
+    "number": 601,
+    "phrase": "Zomea kama jibwa",
+    "m.s.": "Sayari ni dude kubwa la duara lililo angani lizungukalo jua. Matumizi ni sawa na ya zilizotangulia hapo juu. Zurikama malaika",
+    "m.y.": "Jiendea ovyo ovyo; zurura ovyo ovyo.",
+    "mf.": "Alidina ameachishwa kazi, siku hizi anazurura kama jibwa liso kwao. Zurura kama mbwa koko Matumizi yake ni sawa na ya tashbihi iliyotangulia."
+  }
+]
