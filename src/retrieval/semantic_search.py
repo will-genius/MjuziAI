@@ -38,7 +38,7 @@ if __name__ == "__main__":
         results = searcher.search(
             query=test_query, 
             collection_name="TUKI_Kamusi",
-            top_k=3
+            top_k=5
         )
         print(" TOP MATCHES ")
         if not results:
