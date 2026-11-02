@@ -30,29 +30,57 @@ class SecureLoader:
             print(f"Embedding and injecting chunks {i + 1} to {i + len(batch)}")
             self.db.add_documents(batch)
             time.sleep(0.5)
-            print("\n ALL batches successfully embedded and locked in the Vector Vault!")
+        print("\n ALL batches successfully embedded and locked in the Vector Vault!")
 
 
 
 #Test code
 if __name__=="__main__":
     pipeline= IngestionPipeline()
-    kamusi_path= os.path.join(project_root, "data_inputs", "public_knowledge", "Kamusi.json")
-    all_chunks= pipeline.process_document(
-        file_path=kamusi_path,
-        collection_name="TUKI_Kamusi",
-        doc_name="Kamusi.json",
-        user_id="sys_admin_01",
-        organization_id="public_domain",
-        visibility="public"
-    )
+    loader= SecureLoader()
+    
+    target_files = [
+        "tashbihi_clean.json",
+        "methali_clean.json",
+        "vitendawili_clean.json",
+        "tuki_sw_en_clean.json",
+        "tuki_en_sw_clean.json"
+    ]
+    
+    data_dir = os.path.join(project_root, "data_inputs", "public_knowledge")
+    total_processed = 0
 
-    if all_chunks:
-        test_batch= all_chunks[:5460]
-        loader= SecureLoader()
-        loader.ingest_in_batches(all_chunks,batch_size=500)
-        current_docs= loader.db._collection.count()
+    print("\n INITIATING MULTI-FILE PIPELINE INGESTION...")
 
-        print(f"The Vector Vault currently holds {current_docs} embedded chunks.")
+    for file_name in target_files:
+        file_path = os.path.join(data_dir, file_name)
+        
+        if not os.path.exists(file_path):
+            print(f"Skipping '{file_name}' - File not found.")
+            continue
+            
+        print(f"\n==================================================")
+        print(f"   PROCESSING FILE: {file_name}")
+        print(f"==================================================")
+        
+        all_chunks= pipeline.process_document(
+            file_path=file_path,
+            collection_name="TUKI_Kamusi",
+            doc_name=file_name,
+            user_id="sys_admin_01",
+            organization_id="public_domain",
+            visibility="public"
+        )
+
+        if all_chunks:
+            loader.ingest_in_batches(all_chunks, batch_size=500)
+            total_processed += len(all_chunks)
+
+    current_docs = loader.db._collection.count()
+    print("\n==================================================")
+    print(f" INGESTION COMPLETE!")
+    print(f"New Chunks Processed Today: {total_processed}")
+    print(f" The Vector Vault currently holds {current_docs} embedded chunks.")
+    print("==================================================")
 
 
